@@ -1,0 +1,620 @@
+{
+    "recipes": [
+      {
+        "name": "Asian Scrambled Eggs",
+        "country": "China",
+        "ingredients": [
+          "4 eggs",
+          "2 tablespoons soy sauce",
+          "1 tablespoon sesame oil",
+          "1 tablespoon chopped green onions",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a bowl, beat the eggs with soy sauce, sesame oil, green onions, salt, and pepper.",
+          "Heat a non-stick pan over medium heat and pour in the egg mixture.",
+          "Stir continuously until the eggs are cooked to your desired consistency.",
+          "Serve hot with steamed rice or toast."
+        ]
+      },
+      {
+        "name": "Western Omelette",
+        "country": "United States",
+        "ingredients": [
+          "3 eggs",
+          "1/4 cup diced bell peppers",
+          "1/4 cup diced onions",
+          "1/4 cup shredded cheese",
+          "Salt and pepper to taste",
+          "1 tablespoon butter"
+        ],
+        "instructions": [
+          "In a bowl, beat the eggs with salt and pepper.",
+          "Melt butter in a non-stick pan over medium heat.",
+          "Add the diced bell peppers and onions, and sauté until they are tender.",
+          "Pour the beaten eggs into the pan and cook until the edges start to set.",
+          "Sprinkle shredded cheese on one half of the omelette and fold it over.",
+          "Cook for another minute or until the cheese melts.",
+          "Serve hot with toast or a side of salad."
+        ]
+      },
+      {
+        "name": "Congee",
+        "country": "China",
+        "ingredients": [
+          "1 cup rice",
+          "6 cups chicken or vegetable broth",
+          "1 cup cooked shredded chicken",
+          "1 tablespoon grated ginger",
+          "2 tablespoons soy sauce",
+          "Salt and pepper to taste",
+          "Chopped green onions and cilantro for garnish"
+        ],
+        "instructions": [
+          "In a large pot, bring the rice and broth to a boil.",
+          "Reduce heat to low and simmer, stirring occasionally, for about 1 hour or until the rice breaks down and the congee thickens.",
+          "Add the shredded chicken, grated ginger, soy sauce, salt, and pepper. Stir well and cook for another 10 minutes.",
+          "Garnish with chopped green onions and cilantro before serving."
+        ]
+      },
+      {
+        "name": "Pancakes",
+        "country": "United States",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 tablespoon sugar",
+          "1 teaspoon baking powder",
+          "1/2 teaspoon salt",
+          "1 cup milk",
+          "1 egg",
+          "2 tablespoons melted butter"
+        ],
+        "instructions": [
+          "In a bowl, whisk together the flour, sugar, baking powder, and salt.",
+          "In a separate bowl, whisk together the milk, egg, and melted butter.",
+          "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix; lumps are fine.",
+          "Heat a non-stick griddle or frying pan over medium heat.",
+          "Pour 1/4 cup of batter onto the griddle for each pancake.",
+          "Cook until bubbles form on the surface, then flip and cook for another minute or until golden brown.",
+          "Serve hot with maple syrup, fresh fruits, or whipped cream."
+        ]
+      },
+      {
+        "name": "Egg Fried Rice",
+        "country": "China",
+        "ingredients": [
+          "2 cups cooked rice",
+          "2 eggs, lightly beaten",
+          "1 cup mixed vegetables (carrots, peas, corn)",
+          "2 tablespoons soy sauce",
+          "1 tablespoon vegetable oil",
+          "1/2 cup cooked shrimp or chicken (optional)",
+          "Chopped green onions for garnish"
+        ],
+        "instructions": [
+          "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+          "Add the beaten eggs and scramble until they are just cooked. Remove from the pan and set aside.",
+          "In the same pan, add the mixed vegetables and stir-fry until they are tender.",
+          "Add the cooked rice and stir-fry for another 2-3 minutes.",
+          "Pour in the soy sauce and mix well. If desired, add cooked shrimp or chicken.",
+          "Add the scrambled eggs back to the pan and toss everything together.",
+          "Garnish with chopped green onions and serve hot."
+        ]
+      },
+      {
+        "name": "French Toast",
+        "country": "France",
+        "ingredients": [
+          "4 slices bread",
+          "2 eggs",
+          "1/4 cup milk",
+          "1/2 teaspoon vanilla extract",
+          "1/2 teaspoon cinnamon",
+          "Butter for frying",
+          "Maple syrup and fresh berries for serving"
+        ],
+        "instructions": [
+          "In a shallow bowl, whisk together the eggs, milk, vanilla extract, and cinnamon.",
+          "Heat a non-stick pan or griddle over medium heat and melt some butter.",
+          "Dip each slice of bread into the egg mixture, coating both sides evenly.",
+          "Place the dipped bread slices onto the hot pan and cook until golden brown on both sides.",
+          "Repeat with the remaining bread slices, adding more butter to the pan as needed.",
+          "Serve hot with maple syrup and fresh berries."
+        ]
+      },
+      {
+        "name": "Dim Sum Steamed Buns",
+        "country": "China",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 tablespoon sugar",
+          "1 teaspoon active dry yeast",
+          "1/2 cup warm water",
+          "1/2 teaspoon salt",
+          "1 tablespoon vegetable oil",
+          "1/2 cup filling of your choice (e.g., pork, chicken, vegetables)"
+        ],
+        "instructions": [
+          "In a small bowl, dissolve the sugar and yeast in warm water. Let it sit for 5 minutes or until foamy.",
+          "In a large bowl, mix together the flour and salt. Make a well in the center and pour in the yeast mixture and vegetable oil.",
+          "Stir until a dough forms, then transfer to a floured surface and knead for about 5 minutes or until smooth and elastic.",
+          "Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1-2 hours or until doubled in size.",
+          "Punch down the dough and divide it into small pieces. Roll each piece into a circle and place a spoonful of filling in the center.",
+          "Fold the edges of the dough towards the center and pinch to seal. Place the buns on a steamer tray.",
+          "Steam the buns for about 15-20 minutes or until cooked through and puffy.",
+          "Serve hot as a dim sum breakfast or snack."
+        ]
+      },
+      {
+        "name": "Eggs Benedict",
+        "country": "United States",
+        "ingredients": [
+          "2 English muffins, split and toasted",
+                 "4 poached eggs",
+          "4 slices Canadian bacon",
+          "Hollandaise sauce",
+          "Chopped fresh parsley for garnish"
+        ],
+        "instructions": [
+          "Place the toasted English muffin halves on a serving plate.",
+          "Top each muffin half with a slice of Canadian bacon.",
+          "Carefully place a poached egg on top of each bacon slice.",
+          "Drizzle Hollandaise sauce over the eggs.",
+          "Garnish with chopped fresh parsley.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Japanese Tamagoyaki",
+        "country": "Japan",
+        "ingredients": [
+          "4 eggs",
+          "2 tablespoons soy sauce",
+          "1 tablespoon mirin",
+          "1 teaspoon sugar",
+          "1/2 teaspoon salt",
+          "1 tablespoon vegetable oil"
+        ],
+        "instructions": [
+          "In a bowl, whisk together the eggs, soy sauce, mirin, sugar, and salt.",
+          "Heat a non-stick frying pan over medium heat and add the vegetable oil.",
+          "Pour a thin layer of the egg mixture into the pan and tilt the pan to spread it evenly.",
+          "When the bottom layer is set but still slightly runny on top, start rolling it up from one end of the pan to the other.",
+          "Push the rolled omelette to one end of the pan and oil the empty space.",
+          "Pour another thin layer of the egg mixture into the pan, lifting the rolled omelette to let the mixture flow underneath.",
+          "Repeat the rolling and pouring process until all the egg mixture is used.",
+          "Remove the rolled omelette from the pan and let it cool slightly.",
+          "Slice the tamagoyaki into bite-sized pieces and serve warm or at room temperature."
+        ]
+      },
+      {
+        "name": "Belgian Waffles",
+        "country": "Belgium",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "2 tablespoons sugar",
+          "1 tablespoon baking powder",
+          "1/2 teaspoon salt",
+          "1 3/4 cups milk",
+          "2 eggs",
+          "1/2 cup melted butter",
+          "1 teaspoon vanilla extract"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
+          "In another bowl, whisk together the milk, eggs, melted butter, and vanilla extract.",
+          "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix; lumps are fine.",
+          "Preheat a waffle iron and lightly grease it.",
+          "Pour the batter onto the hot waffle iron and cook according to the manufacturer's instructions, usually until golden brown and crispy.",
+          "Serve the waffles hot with your favorite toppings, such as syrup, whipped cream, or fresh fruits."
+        ]
+      },
+      {
+        "name": "Chinese Rice Noodle Rolls",
+        "country": "China",
+        "ingredients": [
+          "1 cup rice flour",
+          "2 tablespoons cornstarch",
+          "1/2 teaspoon salt",
+          "2 cups water",
+          "1/4 cup chopped green onions",
+          "1/4 cup chopped cilantro",
+          "1/4 cup fried shallots",
+          "Soy sauce and hoisin sauce for serving"
+        ],
+        "instructions": [
+          "In a bowl, whisk together the rice flour, cornstarch, salt, and water until smooth.",
+          "Pour the mixture into a greased baking dish and steam over high heat for 10-15 minutes or until set.",
+          "Remove the steamed rice noodle sheet from the dish and let it cool slightly.",
+          "Cut the sheet into long strips, about 3-4 inches wide.",
+          "Top each strip with chopped green onions, cilantro, and fried shallots.",
+          "Roll up the strips tightly and cut them into bite-sized pieces.",
+          "Serve the rice noodle rolls with soy sauce and hoisin sauce for dipping."
+        ]
+      },
+      {
+        "name": "Huevos Rancheros",
+        "country": "Mexico",
+        "ingredients": [
+          "2 corn tortillas",
+          "2 eggs",
+          "1/4 cup black beans",
+          "1/4 cup salsa",
+          "1/4 cup shredded cheese",
+          "Chopped fresh cilantro for garnish"
+        ],
+        "instructions": [
+          "Heat a skillet over medium heat and lightly toast the corn tortillas on both sides.",
+          "In the same skillet, cook the eggs to your desired doneness.",
+          "Place a tortilla on a serving plate and top it with black beans, salsa, and a cooked egg.",
+          "Sprinkle shredded cheese and chopped cilantro on top.",
+          "Repeat with the remaining tortilla, beans, salsa, egg, cheese, and cilantro.",
+          "Serve the huevos rancheros hot."
+        ]
+      },
+      {
+        "name": "Miso Soup",
+        "country": "Japan",
+        "ingredients": [
+          "4 cups dashi (Japanese soup stock)",
+          "3 tablespoons miso paste",
+          "1/2 cup cubed tofu",
+          "2 green onions, thinly sliced",
+          "Seaweed (optional)",
+          "Soy sauce (optional)"
+        ],
+        "instructions": [
+          "In a saucepan, heat the dashi over medium heat until hot.",
+          "In a small bowl, whisk together the miso paste and a ladleful of hot dashi until smooth.",
+          "Pour the miso mixture back into the saucepan and stir well.",
+          "Add the cubed tofu and simmer for a few minutes until heated through.",
+          "Divide the soup into bowls and garnish with sliced green onions and seaweed, if desired.",
+          "Serve hot, and season with soy sauce according to taste."
+        ]
+      },
+      {
+        "name": "Pad Thai",
+        "country": "Thailand",
+        "ingredients": [
+          "8 oz rice noodles",
+          "2 tablespoons vegetable oil",
+          "2 cloves garlic, minced",
+          "1/2 cup tofu, diced",
+          "2 eggs, lightly beaten",
+          "1 cup bean sprouts",
+          "1/4 cup chopped green onions",
+          "2 tablespoons chopped peanuts",
+          "2 tablespoons fish sauce",
+          "2 tablespoons tamarind paste",
+          "1 tablespoon sugar",
+          "1/2 teaspoon chili powder",
+          "Lime wedges for serving"
+        ],
+        "instructions": [
+          "Soak the rice noodles in warm water until they are soft, then drain and set aside.",
+          "In a wok or large skillet, heat the vegetable oil over medium heat.",
+          "Add the minced garlic and diced tofu, and stir-fry until the tofu is golden brown.",
+          "Push the tofu to one side of the wok and pour the beaten eggs into the other side. Scramble the eggs until they are just cooked.",
+          "Add the soaked rice noodles to the wok, along with bean sprouts, chopped green onions, and chopped peanuts. Stir-fry for a few minutes until the noodles are heated through.",
+          "In a small bowl, whisk together the fish sauce, tamarind paste, sugar, and chili powder. Pour the sauce over the noodles and tosseverything together until well combined.",
+          "Serve hot with lime wedges for squeezing over the noodles."
+        ]
+      },
+      {
+        "name": "English Breakfast",
+        "country": "United Kingdom",
+        "ingredients": [
+          "2 sausages",
+          "2 strips of bacon",
+          "1 tomato, halved",
+          "Mushrooms",
+          "Baked beans",
+          "2 eggs",
+          "Toast",
+          "Butter",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat the oven to 200°C (400°F).",
+          "Place the sausages, bacon strips, tomato halves, and mushrooms on a baking sheet.",
+          "Drizzle with oil, sprinkle with salt and pepper, and roast in the oven for about 20 minutes or until cooked through.",
+          "In a saucepan, heat the baked beans over medium heat until hot.",
+          "In a separate non-stick pan, melt some butter and fry the eggs to your desired doneness.",
+          "Toast the bread slices and spread with butter.",
+          "Serve the roasted sausages, bacon, tomato, mushrooms, baked beans, fried eggs, and toast together as a traditional English breakfast."
+        ]
+      },
+      {
+        "name": "Thai Coconut Pancakes",
+        "country": "Thailand",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "2 tablespoons sugar",
+          "1 teaspoon baking powder",
+          "1/4 teaspoon salt",
+          "3/4 cup coconut milk",
+          "1/4 cup water",
+          "1/2 teaspoon vanilla extract",
+          "1/4 cup sweetened shredded coconut",
+          "Butter or oil for cooking",
+          "Maple syrup or condensed milk for serving"
+        ],
+        "instructions": [
+          "In a bowl, whisk together the flour, sugar, baking powder, and salt.",
+          "Add the coconut milk, water, and vanilla extract to the dry ingredients. Stir until well combined.",
+          "Fold in the sweetened shredded coconut.",
+          "Heat a non-stick pan or griddle over medium heat and melt some butter or oil.",
+          "Pour about 1/4 cup of the batter onto the hot pan for each pancake.",
+          "Cook until bubbles form on the surface, then flip and cook for another minute or until golden brown.",
+          "Serve the coconut pancakes hot with maple syrup or condensed milk."
+        ]
+      },
+      {
+        "name": "Korean Kimchi Fried Rice",
+        "country": "Korea",
+        "ingredients": [
+          "2 cups cooked rice",
+          "1 cup kimchi, chopped",
+          "1/4 cup kimchi juice",
+          "2 tablespoons vegetable oil",
+          "1/2 cup diced onion",
+          "1/2 cup diced carrot",
+          "1/2 cup frozen peas",
+          "2 cloves garlic, minced",
+          "2 tablespoons soy sauce",
+          "1 tablespoon sesame oil",
+          "2 green onions, chopped",
+          "Toasted sesame seeds for garnish"
+        ],
+        "instructions": [
+          "Heat the vegetable oil in a large skillet or wok over medium heat.",
+          "Add the diced onion, carrot, peas, and minced garlic. Stir-fry until the vegetables are tender.",
+          "Add the chopped kimchi and cook for another minute.",
+          "Add the cooked rice to the skillet and break up any clumps with a spatula.",
+          "Pour in the kimchi juice, soy sauce, and sesame oil. Stir-fry until the rice is well coated and heated through.",
+          "Remove from heat and stir in the chopped green onions.",
+          "Garnish with toasted sesame seeds and serve hot."
+        ]
+      },
+      {
+        "name": "Croissant",
+        "country": "France",
+        "ingredients": [
+          "2 1/4 cups all-purpose flour",
+          "1/4 cup granulated sugar",
+          "2 1/4 teaspoons active dry yeast",
+          "1/2 cup warm milk",
+          "1/2 teaspoon salt",
+          "1/2 cup unsalted butter, cold",
+          "1 egg, beaten",
+          "Butter for laminating",
+          "Powdered sugar for dusting"
+        ],
+        "instructions": [
+          "In a small bowl, dissolve the sugar and yeast in warm milk. Let it sit for 5 minutes or until foamy.",
+          "In a large bowl, whisk together the flour and salt. Cut the cold butter into small pieces and mix it into the flour using a pastry cutter or your fingertips until the mixture resembles coarse crumbs.",
+          "Pour the yeast mixture into the flour mixture and stir until a dough forms.",
+          "Transfer the dough to a floured surface and knead for about 5 minutes or until smooth and elastic.",
+          "Shape the dough into a ball and place it in a greased bowl. Cover with a damp cloth and let it rise in a warm place for 1-2 hours or until doubled in size.",
+          "Punch down the dough and roll it out into a rectangle on a floured surface.",
+          "Place small pieces of cold butter on two-thirds of the dough and fold the remaining third over the buttered portion. Fold the other end of the dough over the folded portion, like a letter.",
+          "Roll out the dough again into a rectangle and repeat the folding process. Repeat this process two more times, then wrap the dough in plastic wrap and refrigerate for at least 1 hour.",
+          "Preheat the oven to 200°C (400°F).",
+          "Remove the dough from the refrigerator and roll it out into a large rectangle. Cut the dough into triangles.",
+          "Roll each triangle from the wider end towards the tip to form a croissant shape.",
+          "Place the croissants on a baking sheet lined with parchment paper.",
+          "Brush the croissants with beaten egg and let them rise in a warm place for 30-60 minutes or until puffed.",
+          "Bake the croissants in the preheated oven for 15-20 minutes or until golden brown.",
+          "Dust the croissants with powdered sugar before serving."
+        ]
+      },
+      {
+        "name": "Vietnamese Pho",
+        "country": "Vietnam",
+        "ingredients": [
+          "8 cups beef or vegetable broth",
+          "1 onion, sliced",
+          "2-inch piece of ginger, sliced",
+          "2 star anise",
+          "2 cinnamon sticks",
+          "4 cloves",
+          "1 tablespoon fish sauce",
+          "8 oz rice noodles",
+          "Thinly sliced beef or chicken (optional)",
+          "Bean sprouts, basil leaves, lime wedges, and sliced chili peppers for garnish"
+        ],
+        "instructions": [
+          "In a large pot, bring the broth to a boil.",
+          "Add the onion, ginger, star anise, cinnamon sticks, cloves, and fish sauce. Simmer for about 30 minutes to infuse the flavors.",
+          "Meanwhile, cook the rice noodles according to the package instructions. Drain and set aside.",
+          "If using meat, thinly slice it and set aside.",
+          "Strain the broth to remove the solids and return it to the pot.",
+          "If using meat, briefly cook it in the hot broth until just cooked through.",
+          "Divide the cooked ricenoodles among serving bowls. Top with the sliced meat, if using.",
+          "Ladle the hot broth over the noodles and meat.",
+          "Garnish with bean sprouts, basil leaves, lime wedges, and sliced chili peppers.",
+          "Serve the pho hot, allowing each person to add their desired garnishes and seasonings."
+        ]
+      },
+      {
+        "name": "American Pancakes",
+        "country": "United States",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "2 tablespoons sugar",
+          "1 teaspoon baking powder",
+          "1/2 teaspoon baking soda",
+          "1/4 teaspoon salt",
+          "3/4 cup buttermilk",
+          "1/4 cup milk",
+          "1 egg",
+          "2 tablespoons melted butter"
+        ],
+        "instructions": [
+          "In a bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.",
+          "In another bowl, whisk together the buttermilk, milk, egg, and melted butter.",
+          "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix; lumps are fine.",
+          "Heat a non-stick griddle or frying pan over medium heat.",
+          "Pour 1/4 cup of batter onto the griddle for each pancake.",
+          "Cook until bubbles form on the surface, then flip and cook for another minute or until golden brown.",
+          "Serve the pancakes hot with your favorite toppings, such as maple syrup, fresh fruits, or whipped cream."
+        ]
+      },
+      {
+        "name": "Indian Masala Dosa",
+        "country": "India",
+        "ingredients": [
+          "1 cup rice",
+          "1/4 cup urad dal (split black lentils)",
+          "1/4 teaspoon fenugreek seeds",
+          "Salt to taste",
+          "Oil or ghee for cooking",
+          "Potato masala (boiled and seasoned potatoes)",
+          "Coconut chutney and sambar for serving"
+        ],
+        "instructions": [
+          "Rinse the rice, urad dal, and fenugreek seeds together and soak them in water for at least 4 hours or overnight.",
+          "Drain the soaked rice, dal, and fenugreek seeds. Grind them together in a blender or food processor until you get a smooth batter. Add water as needed.",
+          "Transfer the batter to a large bowl, cover with a cloth, and let it ferment in a warm place for 8-12 hours or overnight.",
+          "After fermentation, the batter will be slightly sour and bubbly.",
+          "Stir the batter well and add salt to taste. Mix thoroughly.",
+          "Heat a non-stick griddle or dosa pan over medium heat. Grease it lightly with oil or ghee.",
+          "Pour a ladleful of batter onto the center of the hot griddle. Using the back of the ladle, spread the batter in a circular motion to form a thin dosa.",
+          "Drizzle a little oil or ghee around the edges of the dosa and cook until it turns golden brown and crispy.",
+          "Flip the dosa and cook the other side for a minute or until it is cooked through.",
+          "Remove the dosa from the griddle and place a portion of potato masala on one side of the dosa.",
+          "Fold the dosa in half or roll it up. Serve hot with coconut chutney and sambar."
+        ]
+      },
+      {
+        "name": "German Brötchen",
+        "country": "Germany",
+        "ingredients": [
+          "4 cups bread flour",
+          "1 1/2 teaspoons salt",
+          "2 teaspoons active dry yeast",
+          "1 1/2 cups lukewarm water",
+          "1 tablespoon sugar",
+          "1 tablespoon melted butter",
+          "Poppy seeds or sesame seeds for sprinkling"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the flour and salt.",
+          "In a separate small bowl, dissolve the yeast and sugar in lukewarm water. Let it sit for 5 minutes or until foamy.",
+          "Pour the yeast mixture and melted butter into the flour mixture. Stir until a dough forms.",
+          "Transfer the dough to a floured surface and knead for about 10 minutes or until smooth and elastic.",
+          "Shape the dough into a ball and place it in a greased bowl. Cover with a damp cloth and let it rise in a warm place for 1-2 hours or until doubled in size.",
+          "Punch down the dough and divide it into equal-sized portions.",
+          "Shape each portion into a small round roll.",
+          "Place the rolls on a baking sheet lined with parchment paper, leaving enough space between them for rising.",
+          "Cover the rolls with a damp cloth and let them rise for another 30-60 minutes or until puffed.",
+          "Preheat the oven to 220°C (425°F).",
+          "Brush the rolls with water and sprinkle them with poppy seeds or sesame seeds.",
+          "Bake the rolls in the preheated oven for 15-20 minutes or until golden brown.",
+          "Remove the rolls from the oven and let them cool on a wire rack.",
+          "Serve the Brötchen warm or at room temperature with butter or your favorite spreads."
+        ]
+      },
+      {
+        "name": "Chinese Steamed Buns (Baozi)",
+        "country": "China",
+        "ingredients": [
+          "3 cups all-purpose flour",
+          "1 tablespoon sugar",
+          "1 teaspoon active dry yeast",
+          "1/2 cup lukewarm water",
+          "1 tablespoon vegetable oil",
+          "1/2 teaspoon salt",
+          "1/2 cup filling of your choice (e.g., pork, chicken, vegetables)"
+        ],
+        "instructions": [
+          "In a small bowl, dissolve the sugar and yeast in lukewarm water. Let it sit for 5 minutes or until foamy.",
+          "In a large bowl, whisk together the flour and salt.",
+          "Pour the yeast mixture and vegetable oil into the flour mixture. Stir until a dough forms.",
+          "Transfer the dough to a floured surface and knead for about 10 minutes or until smooth and elastic.",
+          "Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1-2 hours or until doubled in size.",
+          "Punch down the dough and divide it into equal-sized portions. Shape each portion into a small round ball.",
+          "Flatten each ball with your palm and use a rolling pin to roll it out into a circle about 3 inches in diameter.",
+          "Place a spoonful of filling in the center of each circle. Gather the edges of the circle and pinch them together to seal, creating a bun shape.",
+          "Place the buns on a greased steamer tray, leaving enough space between them for rising.",
+          "Cover the buns with a damp cloth and let them rise for another 30-60 minutes or until puffed",
+          "Fill a steamer pot with water and bring it to a boil. Place the steamer tray with the buns on top of the pot, making sure the water does not touch the buns.",
+          "Steam the buns for about 15-20 minutes or until cooked through and puffy.",
+          "Remove the steamed buns from the pot and let them cool slightly before serving.",
+          "Enjoy the Chinese steamed buns (baozi) warm with your favorite dipping sauce or condiments."
+        ]
+      },
+      {
+        "name": "Spanish Tortilla",
+        "country": "Spain",
+        "ingredients": [
+          "4 potatoes, peeled and thinly sliced",
+          "1 onion, thinly sliced",
+          "4 eggs",
+          "Salt and pepper to taste",
+          "Olive oil for frying"
+        ],
+        "instructions": [
+          "In a large non-stick frying pan, heat enough olive oil to cover the bottom of the pan over medium heat.",
+          "Add the sliced potatoes and onions to the pan and cook, stirring occasionally, until the potatoes are tender and lightly golden.",
+          "In a bowl, beat the eggs with salt and pepper.",
+          "Using a slotted spoon, transfer the cooked potatoes and onions to the beaten eggs and mix well.",
+          "Remove any excess oil from the pan, leaving only a thin coating.",
+          "Pour the egg and potato mixture back into the pan and spread it evenly.",
+          "Cook over medium heat for about 5 minutes or until the bottom is set.",
+          "Place a large plate or lid over the pan and carefully flip the tortilla onto the plate.",
+          "Slide the tortilla back into the pan to cook the other side for another 3-5 minutes or until cooked through.",
+          "Remove the tortilla from the pan and let it cool slightly before slicing.",
+          "Serve the Spanish tortilla warm or at room temperature as a delicious breakfast or tapas dish."
+        ]
+      },
+      {
+        "name": "Thai Mango Sticky Rice",
+        "country": "Thailand",
+        "ingredients": [
+          "1 cup glutinous rice",
+          "1 cup coconut milk",
+          "1/2 cup sugar",
+          "1/4 teaspoon salt",
+          "2 ripe mangoes",
+          "Toasted sesame seeds for garnish"
+        ],
+        "instructions": [
+          "Soak the glutinous rice in water for at least 4 hours or overnight.",
+          "Drain the soaked rice and steam it in a rice cooker or steamer until it is tender and cooked through.",
+          "While the rice is cooking, prepare the coconut sauce by combining the coconut milk, sugar, and salt in a saucepan. Heat the mixture over medium heat until the sugar dissolves, but do not let it boil.",
+          "Remove the cooked rice from the steamer and transfer it to a bowl. Pour the coconut sauce over the rice and stir well to coat the rice evenly.",
+          "Let the rice sit for about 15-20 minutes to absorb the coconut sauce.",
+          "Peel and slice the ripe mangoes.",
+          "To serve, place a portion of the coconut sticky rice on a plate and top it with sliced mangoes.",
+          "Sprinkle toasted sesame seeds over the rice and mangoes for garnish.",
+          "Enjoy the Thai mango sticky rice as a sweet and delightful breakfast or dessert."
+        ]
+      },
+      {
+        "name": "American Breakfast Burrito",
+        "country": "United States",
+        "ingredients": [
+          "4 large flour tortillas",
+          "4 eggs, scrambled",
+          "4 slices bacon, cooked and crumbled",
+          "1 cup shredded cheddar cheese",
+          "1/2 cup diced tomatoes",
+          "1/4 cup diced onions",
+          "1/4 cup diced bell peppers",
+          "1/4 cup chopped fresh cilantro",
+          "Salt and pepper to taste",
+          "Hot sauce or salsa for serving"
+        ],
+        "instructions": [
+          "Warm the flour tortillas in a dry skillet or microwave until pliable.",
+          "In a bowl, season the scrambled eggs with salt and pepper.",
+          "Divide the scrambled eggs, crumbled bacon, shredded cheddar cheese, diced tomatoes, onions, bell peppers, and chopped cilantro among the tortillas.",
+          "Fold the sides of each tortilla inward, then roll it up tightly to form a burrito.",
+          "Optional: Heat a skillet over medium heat and lightly toast the burritos on all sides until the cheese melts and the tortillas turn golden brown.",
+          "Serve the breakfast burritos hot with hot sauce or salsa on the side."
+        ]
+      }
+    ]
+  }
+  

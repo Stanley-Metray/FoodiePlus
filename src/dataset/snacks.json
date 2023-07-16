@@ -1,0 +1,762 @@
+{
+    "recipes": [
+        {
+            "name": "Buffalo Chicken Wings",
+            "country": "United States",
+            "ingredients": [
+                "12 chicken wings",
+                "1/2 cup hot sauce",
+                "1/4 cup melted butter",
+                "1/4 cup all-purpose flour",
+                "1/2 teaspoon paprika",
+                "1/2 teaspoon garlic powder",
+                "Salt and pepper to taste",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "In a bowl, combine hot sauce and melted butter.",
+                "In a separate bowl, mix flour, paprika, garlic powder, salt, and pepper.",
+                "Coat the chicken wings with the flour mixture.",
+                "Deep fry the wings in oil until cooked and crispy.",
+                "Toss the fried wings in the hot sauce mixture.",
+                "Serve hot with ranch or blue cheese dressing."
+            ]
+        },
+        {
+            "name": "Fish and Chips",
+            "country": "United Kingdom",
+            "ingredients": [
+                "2 large potatoes",
+                "1 cup all-purpose flour",
+                "1 teaspoon baking powder",
+                "1/2 teaspoon salt",
+                "1/2 cup cold water",
+                "4 fillets of white fish (such as cod or haddock)",
+                "Oil for frying",
+                "Salt and vinegar for seasoning"
+            ],
+            "instructions": [
+                "Cut the potatoes into thick strips.",
+                "In a bowl, mix flour, baking powder, and salt.",
+                "Gradually add water to the flour mixture to make a thick batter.",
+                "Dip the fish fillets in the batter, ensuring they are well coated.",
+                "Heat oil in a deep pan and fry the fish until golden brown.",
+                "In a separate pan, fry the potato strips until crispy.",
+                "Season the fish and chips with salt and vinegar.",
+                "Serve hot with tartar sauce or ketchup."
+            ]
+        },
+        {
+            "name": "Nachos",
+            "country": "Mexico",
+            "ingredients": [
+                "Tortilla chips",
+                "1 cup grated cheddar cheese",
+                "1/2 cup black beans",
+                "1/2 cup diced tomatoes",
+                "1/4 cup sliced jalapenos",
+                "1/4 cup sliced black olives",
+                "1/4 cup chopped fresh cilantro",
+                "Sour cream and salsa for serving"
+            ],
+            "instructions": [
+                "Preheat the oven to 350°F (175°C).",
+                "Spread tortilla chips on a baking sheet.",
+                "Sprinkle grated cheddar cheese evenly over the chips.",
+                "Add black beans, diced tomatoes, jalapenos, and black olives.",
+                "Bake in the oven for about 10 minutes, or until the cheese has melted.",
+                "Remove from the oven and sprinkle with chopped cilantro.",
+                "Serve hot with sour cream and salsa."
+            ]
+        },
+        {
+            "name": "Poutine",
+            "country": "Canada",
+            "ingredients": [
+                "4 cups French fries",
+                "1 1/2 cups cheese curds",
+                "1 cup beef or chicken gravy",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Cook French fries according to package instructions.",
+                "In a large serving dish, layer French fries, cheese curds, and gravy.",
+                "Repeat the layers until all ingredients are used.",
+                "Season with salt and pepper.",
+                "Place the dish in a preheated oven at 375°F (190°C) for a few minutes to melt the cheese.",
+                "Serve hot."
+            ]
+        },
+        {
+            "name": "Caesar Salad",
+            "country": "United States",
+            "ingredients": [
+                "1 head of romaine lettuce",
+                "1/2 cup croutons",
+                "1/4 cup grated Parmesan cheese",
+                "2 tablespoons olive oil",
+                "2 tablespoons lemon juice",
+                "1 teaspoon Dijon mustard",
+                "1 clove garlic, minced",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Wash and chop the romaine lettuce.",
+                "In a small bowl, whisk together olive oil, lemon juice, Dijon mustard, garlic, salt, and pepper to make the dressing.",
+                "In a large salad bowl, combine the lettuce, croutons, and Parmesan cheese.",
+                "Drizzle the dressing over the salad and toss well to coat.",
+                "Serve immediately."
+            ]
+        },
+        {
+            "name": "Bruschetta",
+            "country": "Italy",
+            "ingredients": [
+                "Baguette or Italian bread",
+                "2 large tomatoes, diced",
+                "1/4 cup chopped fresh basil",
+                "2 cloves garlic, minced",
+                "2 tablespoons olive oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to 375°F (190°C).",
+                "Slice the baguette into 1/2-inch thick slices.",
+                "Place the bread slices on a baking sheet and drizzle with olive oil.",
+                "Toast the bread slices in the oven for about 8-10 minutes, or until golden brown.",
+                "In a bowl, combine diced tomatoes, basil, garlic, olive oil, salt, and pepper to make the topping.",
+                "Remove the bread slices from the oven and let them cool slightly.",
+                "Top each slice with the tomato mixture.",
+                "Serve as an appetizer or snack."
+            ]
+        },
+        {
+            "name": "Deviled Eggs",
+            "country": "United States",
+            "ingredients": [
+                "6 hard-boiled eggs",
+                "1/4 cup mayonnaise",
+                "1 teaspoon mustard",
+                "1/2 teaspoon white vinegar",
+                "Salt and pepper to taste",
+                "Paprika for garnish"
+            ],
+            "instructions": [
+                "Cut the hard-boiled eggs in half lengthwise.",
+                "Carefully remove the yolks and place them in a bowl.",
+                "Mash the yolks with a fork until smooth.",
+                "Add mayonnaise, mustard, vinegar, salt, and pepper to the mashed yolks.",
+                "Mix well until creamy and well combined.",
+                "Spoon the yolk mixture back into the egg white halves.",
+                "Sprinkle with paprika for garnish.",
+                "Chill in the refrigerator for at least 30 minutes before serving."
+            ]
+        },
+        {
+            "name": "Mozzarella Sticks",
+            "country": "United States",
+            "ingredients": [
+                "12 mozzarella cheese sticks",
+                "1 cup all-purpose flour",
+                "2 eggs, beaten",
+                "1 cup breadcrumbs",
+                "1/2 teaspoon garlic powder",
+                "1/2 teaspoon dried oregano",
+                "Oil for frying",
+                "Marinara sauce for dipping"
+            ],
+            "instructions": [
+                "Cut mozzarella cheese sticks in half.",
+                "In separate bowls, place flour, beaten eggs, and breadcrumbs mixed with garlic powder and oregano.",
+                "Dip each mozzarella stick halfinto flour, then egg, and finally coat with breadcrumbs.",
+                "Repeat the process for a double coating, if desired.",
+                "Place the coated mozzarella sticks on a baking sheet and freeze for about 30 minutes.",
+                "Heat oil in a deep pan and fry the mozzarella sticks until golden brown.",
+                "Remove from the pan and drain on paper towels.",
+                "Serve hot with marinara sauce for dipping."
+            ]
+        },
+        {
+            "name": "Hummus",
+            "country": "Middle East",
+            "ingredients": [
+                "1 can chickpeas, drained",
+                "2 tablespoons tahini",
+                "2 tablespoons lemon juice",
+                "1 clove garlic, minced",
+                "2 tablespoons olive oil",
+                "Salt and cumin to taste",
+                "Paprika and olive oil for garnish"
+            ],
+            "instructions": [
+                "In a food processor, combine chickpeas, tahini, lemon juice, garlic, olive oil, salt, and cumin.",
+                "Blend until smooth and creamy.",
+                "If needed, add a little water to adjust the consistency.",
+                "Transfer the hummus to a serving bowl.",
+                "Garnish with paprika and a drizzle of olive oil.",
+                "Serve with pita bread or fresh vegetables."
+            ]
+        },
+        {
+            "name": "Cheese Quesadilla",
+            "country": "Mexico",
+            "ingredients": [
+                "2 large flour tortillas",
+                "1 cup shredded cheese (such as cheddar or Monterey Jack)",
+                "1/4 cup diced bell peppers",
+                "1/4 cup diced onions",
+                "1/4 cup sliced black olives",
+                "Sour cream and salsa for serving"
+            ],
+            "instructions": [
+                "Heat a large skillet or griddle over medium heat.",
+                "Place a tortilla in the skillet and sprinkle half of the shredded cheese on one side of the tortilla.",
+                "Add diced bell peppers, onions, and black olives on top of the cheese.",
+                "Fold the tortilla in half to cover the filling.",
+                "Cook for a few minutes until the bottom is golden brown.",
+                "Flip the quesadilla and cook the other side until golden brown and the cheese is melted.",
+                "Remove from the skillet and cut into wedges.",
+                "Serve hot with sour cream and salsa."
+            ]
+        },
+        {
+            "name": "Garlic Bread",
+            "country": "Italy",
+            "ingredients": [
+                "1 French baguette",
+                "1/2 cup unsalted butter, softened",
+                "4 cloves garlic, minced",
+                "2 tablespoons chopped fresh parsley",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to 375°F (190°C).",
+                "Cut the baguette in half lengthwise.",
+                "In a small bowl, mix together softened butter, minced garlic, chopped parsley, and salt.",
+                "Spread the garlic butter mixture evenly on the cut sides of the baguette.",
+                "Place the baguette halves on a baking sheet, cut side up.",
+                "Bake in the oven for about 10-12 minutes, or until the bread is toasted and the butter has melted.",
+                "Slice and serve warm."
+            ]
+        },
+        {
+            "name": "Guacamole",
+            "country": "Mexico",
+            "ingredients": [
+                "2 ripe avocados",
+                "1/4 cup diced tomatoes",
+                "2 tablespoons diced onions",
+                "1 tablespoon chopped fresh cilantro",
+                "1 tablespoon lime juice",
+                "1 clove garlic, minced",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Cut the avocados in half and remove the pits.",
+                "Scoop the avocado flesh into a bowl and mash with a fork.",
+                "Add diced tomatoes, onions, cilantro, lime juice, minced garlic, salt, and pepper.",
+                "Mix well to combine all the ingredients.",
+                "Taste and adjust the seasoning if needed.",
+                "Serve immediately with tortilla chips or as a topping for tacos or burritos."
+            ]
+        },
+        {
+            "name": "Baked Mac and Cheese",
+            "country": "United States",
+            "ingredients": [
+                "8 ounces elbow macaroni",
+                "2 tablespoons unsalted butter",
+                "2 tablespoons all-purpose flour",
+                "2 cups milk",
+                "2 cups shredded cheddar cheese",
+                "1/2 cup grated Parmesan cheese",
+                "1/2 teaspoon mustard powder",
+                "Salt and pepper to taste",
+                "1/4 cup breadcrumbs (optional)"
+            ],
+            "instructions": [
+                "Cook macaroni according to package instructions, then drain and set aside.",
+                "In a saucepan, melt butter over medium heat.",
+                "Stir in flour and cook for about 1 minute, until smooth and bubbly.",
+                "Gradually whisk in milk and bring to a boil.",
+                "Reduce heat and simmer for 2 minutes, stirring constantly.",
+                "Remove the saucepan from heat and add shredded cheddar cheese, Parmesan cheese, mustard powder, salt, and pepper.",
+                "Stir until the cheeses are melted and the sauce is smooth.",
+                "Combine the cooked macaroni with the cheese sauce and mix well.",
+                "If desired, sprinkle breadcrumbs on top.",
+                "Transfer the mac and cheese to a baking dish.",
+                "Bake in the oven at 375°F (190°C) for about 20 minutes, or until golden and bubbly.",
+                "Serve hot."
+            ]
+        },
+        {
+            "name": "Popcorn",
+            "country": "United States",
+            "ingredients": [
+                "1/2 cup popcorn kernels",
+                "2 tablespoons vegetable oil",
+                "Salt and melted butter to taste"
+            ],
+            "instructions": [
+                "Heat vegetable oil in a large pot over medium-high heat.",
+                "Add popcorn kernels to the pot and cover with a lid.",
+                "Shake the pot occasionally to prevent burning.",
+                "Continue cooking until the popping sound slows down.",
+                "Remove the pot from heat and let it sit for a minute to ensure all the kernels have popped.",
+                "Season with salt and drizzle with melted butter.",
+                "Toss well to coat the popcorn.",
+                "Serve immediately."
+            ]
+        },
+        {
+            "name": "Sushi Rolls",
+            "country": "Japan",
+            "ingredients": [
+                "Nori seaweed sheets",
+                "Sushi rice",
+                "Assorted fillings (such as fish, vegetables, and avocado)",
+                "Soy sauce and wasabi for serving"
+            ],
+            "instructions": [
+                "Place a sheet of nori on a bamboo sushi mat.",
+                "Spread a thin layer of sushi rice over the nori, leaving a small border at the top.",
+                "Add your choice of fillings along the bottom edge of the nori.",
+                "Roll the sushi tightly using the bamboo mat, applying gentle pressure.",
+                "Slice the sushi roll into bite-sized pieces.",
+                "Serve with soy sauce and wasabi."
+            ]
+        },
+        {
+            "name": "Spring Rolls",
+            "country": "China",
+            "ingredients": [
+                "Spring roll wrappers",
+                "Shredded cabbage",
+                "Carrots, julienned",
+                "Bean sprouts",
+                "Cooked shrimp or chicken (optional)",
+                "Soy sauce for dipping"
+            ],
+            "instructions": [
+                "Soak the spring roll wrappers in warm water until pliable.",
+                "Place a small amount of shredded cabbage, carrots, bean sprouts, and cooked shrimp or chicken (if using) on a spring roll wrapper.",
+                "Fold the sides of the wrapper over the filling and roll tightly.",
+                "Repeat with the remaining wrappers and filling.",
+                "Serve the spring rolls with soy sauce for dipping."
+            ]
+        },
+        {
+            "name": "Dumplings",
+            "country": "China",
+            "ingredients": [
+                "Dumpling wrappers",
+                "Ground pork or chicken",
+                "Cabbage, finely chopped",
+                "Green onions, chopped",
+                "Ginger, minced",
+                "Soy sauce",
+                "Sesame oil",
+                "Salt and pepper"
+            ],
+            "instructions": [
+                "In a bowl, mix together ground pork or chicken, chopped cabbage, green onions, ginger, soy sauce, sesame oil, salt, and pepper.",
+                "Place a spoonful of the filling onto a dumpling wrapper.",
+                "Moisten the edges of the wrapper with water and fold it in half, pressing the edges together to seal.",
+                "Repeat with the remaining filling and wrappers.",
+                "Steam the dumplings for about 10-12 minutes, or until cooked through.",
+                "Serve with soy sauce or dipping sauce."
+            ]
+        },
+        {
+            "name": "Banh Mi",
+            "country": "Vietnam",
+            "ingredients": [
+                "Baguette",
+                "Grilled or roasted meat (such as pork, chicken, or beef)",
+                "Pickled carrots and daikon radish",
+                "Cucumber, thinly sliced",
+                "Cilantro leaves",
+                "Mayonnaise",
+                "Soy sauce or fish sauce"
+            ],
+            "instructions": [
+                "Slice the baguette in half lengthwise.",
+                "Spread mayonnaise on the inside of the baguette.",
+                "Layer the grilled or roasted meat, pickled carrots and daikon radish, cucumber slices, and cilantro leaves.",
+                "Drizzle with soy sauce or fish sauce.",
+                "Close the baguette and press gently.",
+                "Slice into smaller sandwiches.",
+                "Serve immediately."
+            ]
+        },
+        {
+            "name": "Baozi (Steamed Buns)",
+            "country": "China",
+            "ingredients": [
+                "Baozi dough",
+                "Ground meat or vegetable filling",
+                "Soy sauce",
+                "Sesame oil",
+                "Minced garlic",
+                "Minced ginger",
+                "Green onions, chopped"
+            ],
+            "instructions": [
+                "Divide the baozi dough into small portions and roll them into circles.",
+                "Place a spoonful of the filling in the center of each dough circle.",
+                "Fold the dough in half and pinch the edges together to seal.",
+                "Place the baozi on a steamer and steam for about 15-20 minutes, or until cooked through.",
+                "In a small bowl, mix soy sauce, sesame oil, minced garlic, minced ginger, and chopped green onions to make a dipping sauce.",
+                "Serve the steamed buns with the dipping sauce."
+            ]
+        },
+        {
+            "name": "Pani Puri",
+            "country": "India",
+            "ingredients": [
+                "Puris (crispy hollow shells)",
+                "Boiled potatoes, mashed",
+                "Chickpeas",
+                "Tamarind chutney",
+                "Mint and coriander chutney",
+                "Spiced water (made with spices like cumin, chaat masala, and black salt)"
+            ],
+            "instructions": [
+                "Make a small hole in each puri and fill it with mashed potatoes and chickpeas.",
+                "Drizzle tamarind chutney and mint and coriander chutney into each puri.",
+                "Dip the filled puri into the spiced water to soak it.",
+                "Eat the entire puri in one bite to enjoy the burst of flavors.",
+                "Repeat with the remaining puris.",
+                "Serve immediately."
+            ]
+        },
+        {
+            "name": "Takoyaki",
+            "country": "Japan",
+            "ingredients": [
+                "Takoyaki batter",
+                "Cooked octopus (tako), diced",
+                "Tempura scraps (tenkasu)",
+                "Green onions, chopped",
+                "Pickled ginger",
+                "Takoyaki sauce",
+                "Mayonnaise",
+                "Bonito flakes (katsuobushi)",
+                "Aonori (seaweed flakes)"
+            ],
+            "instructions": [
+                "Heat a takoyaki pan and grease the molds with oil.",
+                "Pour the takoyaki batter into each mold, filling it halfway.",
+                "Add a piece of diced octopus, some tempura scraps, green onions, and pickled ginger to each mold.",
+                "Pour more batter on top to cover the fillings.",
+                "Cook the takoyaki, turning them with skewers or chopsticks to form a round shape.",
+                "Once the takoyaki are golden brown and crispy, remove them from the pan.",
+                "Drizzle takoyaki sauce and mayonnaise over the takoyaki.",
+                "Sprinkle with bonito flakes and aonori.",
+                "Serve hot."
+            ]
+        },
+        {
+            "name": "Kimbap",
+            "country": "South Korea",
+            "ingredients": [
+                "Seaweed sheets (gim)",
+                "Sushi rice",
+                "Assorted fillings (such as vegetables, pickled radish, and cooked meat)",
+                "Sesame oil",
+                "Soy sauce for dipping"
+            ],
+            "instructions": [
+                "Place a sheet of seaweed on a bamboo mat.",
+                "Spread a thin layer of sushi rice over the seaweed, leaving a small border at the top.",
+                "Add your choice of fillings alongthe bottom edge of the seaweed.",
+                "Drizzle with a little sesame oil.",
+                "Roll the kimbap tightly using the bamboo mat, applying gentle pressure.",
+                "Slice the kimbap into bite-sized pieces.",
+                "Serve with soy sauce for dipping."
+            ]
+        },
+        {
+            "name": "Thai Fish Cakes",
+            "country": "Thailand",
+            "ingredients": [
+                "White fish fillets",
+                "Red curry paste",
+                "Green beans, finely chopped",
+                "Kaffir lime leaves, finely shredded",
+                "Egg",
+                "Fish sauce",
+                "Sugar",
+                "Vegetable oil for frying",
+                "Sweet chili sauce for dipping"
+            ],
+            "instructions": [
+                "In a food processor, blend fish fillets, red curry paste, green beans, kaffir lime leaves, egg, fish sauce, and sugar until well combined.",
+                "Form the mixture into small patties.",
+                "Heat vegetable oil in a pan over medium heat.",
+                "Fry the fish cakes until golden brown on both sides.",
+                "Remove from the pan and drain on paper towels.",
+                "Serve hot with sweet chili sauce for dipping."
+            ]
+        },
+        {
+            "name": "Taiwanese Bubble Tea",
+            "country": "Taiwan",
+            "ingredients": [
+                "Black tea",
+                "Tapioca pearls (boba)",
+                "Milk",
+                "Sugar or simple syrup",
+                "Ice cubes"
+            ],
+            "instructions": [
+                "Cook tapioca pearls according to package instructions and set aside.",
+                "Brew black tea and let it cool.",
+                "In a glass, add cooked tapioca pearls, black tea, milk, sugar or simple syrup, and ice cubes.",
+                "Stir well to combine all the ingredients.",
+                "Serve with a thick straw for enjoying the tapioca pearls."
+            ]
+        },
+        {
+            "name": "Kaya Toast",
+            "country": "Singapore",
+            "ingredients": [
+                "Sliced bread",
+                "Kaya (coconut jam)",
+                "Butter",
+                "Soft-boiled eggs",
+                "Soy sauce",
+                "White pepper"
+            ],
+            "instructions": [
+                "Toast the bread slices until golden brown.",
+                "Spread a generous amount of kaya and butter on each slice of bread.",
+                "Cut the kaya toast into smaller pieces, if desired.",
+                "Serve with soft-boiled eggs seasoned with soy sauce and white pepper."
+            ]
+        },
+        {
+            "name": "Pajeon (Korean Scallion Pancake)",
+            "country": "South Korea",
+            "ingredients": [
+                "All-purpose flour",
+                "Water",
+                "Eggs",
+                "Scallions (green onions), chopped",
+                "Salt",
+                "Vegetable oil for frying",
+                "Soy sauce for dipping"
+            ],
+            "instructions": [
+                "In a bowl, whisk together all-purpose flour, water, and eggs to make a batter.",
+                "Add chopped scallions and salt to the batter and mix well.",
+                "Heat vegetable oil in a pan over medium heat.",
+                "Pour a ladleful of batter into the pan and spread it into a thin pancake.",
+                "Cook until the bottom is golden brown, then flip and cook the other side.",
+                "Remove from the pan and drain on paper towels.",
+                "Cut the pancake into smaller pieces, if desired.",
+                "Serve hot with soy sauce for dipping."
+            ]
+        },
+        {
+            "name": "Roti Canai",
+            "country": "Malaysia",
+            "ingredients": [
+                "Roti canai dough",
+                "Ghee or vegetable oil",
+                "Curry sauce or dal for dipping"
+            ],
+            "instructions": [
+                "Divide the roti canai dough into small portions and shape them into balls.",
+                "Brush each dough ball with ghee or vegetable oil.",
+                "Flatten the dough ball and stretch it as thin as possible.",
+                "Fold the dough into a square or triangle shape.",
+                "Heat a pan or griddle over medium heat and brush it with ghee or vegetable oil.",
+                "Cook the roti canai on the pan until both sides are golden brown and crispy.",
+                "Serve hot with curry sauce or dal for dipping."
+            ]
+        },
+        {
+            "name": "Kimchi Pancake",
+            "country": "Korea",
+            "ingredients": [
+                "All-purpose flour",
+                "Water",
+                "Kimchi, chopped",
+                "Kimchi juice",
+                "Scallions (green onions), chopped",
+                "Salt",
+                "Vegetable oil for frying",
+                "Soy sauce for dipping"
+            ],
+            "instructions": [
+                "In a bowl, mix together all-purpose flour and water to make a batter.",
+                "Add chopped kimchi, kimchi juice, chopped scallions, and salt to the batter.",
+                "Stir well to combine all the ingredients.",
+                "Heat vegetable oil in a pan over medium heat.",
+                "Pour a ladleful of batter into the pan and spread it into a thin pancake.",
+                "Cook until the bottom is golden brown, then flip and cook the other side.",
+                "Remove from the pan and drain on paper towels.",
+                "Cut the pancake into smaller pieces, if desired.",
+                "Serve hot with soy sauce for dipping."
+            ]
+        },
+        {
+            "name": "Samosa",
+            "country": "India",
+            "ingredients": [
+                "For the dough:",
+                "2 cups all-purpose flour",
+                "1/4 cup vegetable oil",
+                "1/2 teaspoon salt",
+                "Water as needed",
+                "For the filling:",
+                "2 medium potatoes, boiled and mashed",
+                "1/2 cup green peas",
+                "1/2 teaspoon cumin seeds",
+                "1/2 teaspoon turmeric powder",
+                "1/2 teaspoon garam masala",
+                "1/2 teaspoon red chili powder",
+                "1 teaspoon grated ginger",
+                "1 teaspoon grated garlic",
+                "Salt to taste",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "In a large bowl, mix all-purpose flour, vegetable oil, and salt to make the dough.",
+                "Add water gradually and knead until a smooth dough is formed.",
+                "Cover the dough and let it rest for 30 minutes.",
+                "In a pan, heat oil and add cumin seeds, grated ginger, and grated garlic. Sauté for a minute.",
+                "Add green peas and sauté for a few minutes.",
+                "Add turmeric powder, garam masala, red chili powder, and salt. Mix well.",
+                "Add mashed potatoes and mix until well combined.",
+                "Divide the dough into small balls and roll each ball into a thin circle.",
+                "Cut the circle in half and shape it into a cone.",
+                "Fill the cone with the potato filling and seal the edges.",
+                "Heat oil in a deep pan and fry the samosas until golden brown.",
+                "Serve hot with chutney or sauce."
+            ]
+        },
+        {
+            "name": "Pakoras",
+            "country": "India",
+            "ingredients": [
+                "1 cup chickpea flour",
+                "1/4 cup rice flour",
+                "1/2 teaspoon cumin seeds",
+                "1/2 teaspoon coriander powder",
+                "1/4 teaspoon turmeric powder",
+                "1/4 teaspoon red chili powder",
+                "Salt to taste",
+                "1 onion, thinly sliced",
+                "1 cup mixed vegetables (such as spinach, potatoes, or cauliflower)",
+                "Water as needed",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "In a bowl, mix chickpea flour, rice flour, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt.",
+                "Add sliced onions and mixed vegetables to the flour mixture.",
+                "Gradually add water to make a thick batter.",
+                "Heat oil in a deep pan over medium heat.",
+                "Drop spoonfuls of the batter into the hot oil and fry until golden brown and crispy.",
+                "Remove from the pan and drain on paper towels.",
+                "Serve hot with chutney or sauce."
+            ]
+        },
+        {
+            "name": "Dahi Vada",
+            "country": "India",
+            "ingredients": [
+                "1 cup urad dal (split black lentils)",
+                "1/2 cup moong dal (split yellow lentils)",
+                "2 cups yogurt",
+                "1/2 teaspoon cumin powder",
+                "1/2 teaspoon red chili powder",
+                "Tamarind chutney",
+                "Mint and coriander chutney",
+                "Salt to taste",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "Soak urad dal and moong dal in water for a few hours.",
+                "Drain the water and grind the soaked lentils into a smooth batter.",
+                "Add salt to the batter and mix well.",
+                "Heat oil in a deep pan over medium heat.",
+                "Drop spoonfuls of the batter into the hot oil and fry until golden brown and crispy.",
+                "Remove from the pan and drain on paper towels.",
+                "In a bowl, whisk yogurt until smooth and creamy.",
+                "Soak the fried vadas in water for a few minutes, then squeeze out the excess water and place them in the yogurt.",
+                "Sprinkle cumin powder and red chili powder on top.",
+                "Drizzle tamarind chutney and mint and coriander chutney over the vadas.",
+                "Serve chilled."
+            ]
+        },
+        {
+            "name": "Poha",
+            "country": "India",
+            "ingredients": [
+                "2 cups flattened rice (poha)",
+                "1 onion, finely chopped",
+                "1 green chili, chopped",
+                "1/2 teaspoon mustard seeds",
+                "1/2 teaspoon cumin seeds",
+                "8-10 curry leaves",
+                "1/4 cup peanuts",
+                "2 tablespoons oil",
+                "Juice of 1 lemon",
+                "Salt to taste",
+                "Fresh coriander leaves for garnish"
+            ],
+            "instructions": [
+                "Wash the flattened rice in water and drain well.",
+                "Heat oil in a pan and add mustard seeds. When they start spluttering, add cumin seeds, curry leaves, and peanuts.",
+                "Sauté until the peanuts turn golden brown.",
+                "Add chopped onions and green chilies. Sauté until the onions become translucent.",
+                "Add the washed flattened rice to the pan. Mix well.",
+                "Add salt and lemon juice. Mix again.",
+                "Cover the pan and let the poha cook for a few minutes on low heat.",
+                "Remove from heat and let it sit for a few more minutes, allowing the flavors to blend.",
+                "Garnish with fresh coriander leaves.",
+                "Serve hot."
+            ]
+        },
+        {
+            "name": "Aloo Tikki",
+            "country": "India",
+            "ingredients": [
+                "4 medium potatoes, boiled and mashed",
+                "1/2 cup bread crumbs",
+                "2 tablespoons corn flour",
+                "1/2 teaspoon cumin powder",
+                "1/2 teaspoon coriander powder",
+                "1/2 teaspoon red chili powder",
+                "1/2 teaspoon chaat masala",
+                "Salt to taste",
+                "Oil for frying"
+            ]
+        },
+        {
+            "name": "Aloo Tikki",
+            "country": "India",
+            "ingredients": [
+                "4 medium potatoes, boiled and mashed",
+                "1/2 cup bread crumbs",
+                "2 tablespoons corn flour",
+                "1/2 teaspoon cumin powder",
+                "1/2 teaspoon coriander powder",
+                "1/2 teaspoon red chili powder",
+                "1/2 teaspoon chaat masala",
+                "Salt to taste",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "In a bowl, mix mashed potatoes, bread crumbs, corn flour, cumin powder, coriander powder, red chili powder, chaat masala, and salt.",
+                "Divide the mixture into small portions and shape them into round patties.",
+                "Heat oil in a pan over medium heat.",
+                "Place the patties in the pan and fry until golden brown on both sides.",
+                "Remove from the pan and drain on paper towels.",
+                "Serve hot with chutney or sauce."
+            ]
+        }
+    ]
+}

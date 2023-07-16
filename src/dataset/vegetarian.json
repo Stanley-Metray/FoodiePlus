@@ -1,0 +1,973 @@
+{
+    "recipes": [
+        {
+            "name": "Palak Paneer",
+            "country": "India",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups spinach leaves",
+                "200 grams paneer (Indian cottage cheese), cubed",
+                "1 onion, finely chopped",
+                "2 tomatoes, pureed",
+                "2 tablespoons ghee (clarified butter)",
+                "1 teaspoon cumin seeds",
+                "1 teaspoon ginger-garlic paste",
+                "1 teaspoon garam masala",
+                "1/2 teaspoon turmeric powder",
+                "1/2 teaspoon red chili powder",
+                "1/4 cup heavy cream",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Blanch the spinach leaves in boiling water for a minute, then drain and puree them.",
+                "Heat ghee in a pan and add cumin seeds.",
+                "Once the cumin seeds crackle, add chopped onions and sauté until golden brown.",
+                "Add ginger-garlic paste and sauté for a minute.",
+                "Add tomato puree and cook until the oil separates from the masala.",
+                "Add turmeric powder, red chili powder, garam masala, and salt. Mix well.",
+                "Add spinach puree and cook for 2-3 minutes.",
+                "Add cubed paneer and mix gently.",
+                "Pour in the heavy cream and simmer for a minute.",
+                "Serve hot with rice or roti."
+            ]
+        },
+        {
+            "name": "Chole Bhature",
+            "country": "India",
+            "vegetarian": true,
+            "ingredients": [
+                "For Chole (Chickpea Curry):",
+                "2 cups chickpeas, soaked overnight",
+                "2 onions, finely chopped",
+                "2 tomatoes, pureed",
+                "2 teaspoons ginger-garlic paste",
+                "2 teaspoons chole masala",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 teaspoon cumin seeds",
+                "1 teaspoon ghee or oil",
+                "Salt to taste",
+                "For Bhature (Fried Bread):",
+                "2 cups all-purpose flour",
+                "1/4 cup semolina",
+                "1/2 cup plain yogurt",
+                "1 teaspoon sugar",
+                "1 teaspoon baking powder",
+                "1/4 teaspoon baking soda",
+                "Salt to taste",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "For Chole:",
+                "Pressure cook soaked chickpeas until tender.",
+                "Heat ghee or oil in a pan and add cumin seeds.",
+                "Once the cumin seeds crackle, add chopped onions and sauté until golden brown.",
+                "Add ginger-garlic paste and sauté for a minute.",
+                "Add tomato puree, chole masala, turmeric powder, red chili powder, and salt. Mix well.",
+                "Cook the masala until the oil separates from it.",
+                "Add cooked chickpeas and simmer for 10-15 minutes.",
+                "For Bhature:",
+                "In a mixing bowl, combine all-purpose flour, semolina, plain yogurt, sugar, baking powder, baking soda, and salt.",
+                "Knead the mixture into a soft dough, adding water if needed.",
+                "Cover the dough and let it rest for 2 hours.",
+                "Divide the dough into small balls and roll each ball into a circular shape.",
+                "Heat oil in a deep pan and fry the rolled dough until golden brown and puffed.",
+                "Serve hot Bhature with Chole."
+            ]
+        },
+        {
+            "name": "Vegetable Biryani",
+            "country": "India",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups basmati rice",
+                "1 cup mixed vegetables (carrots, peas, beans, etc.)",
+                "1 onion, thinly sliced",
+                "2 tomatoes, chopped",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon biryani masala",
+                "1/2 teaspoon turmeric powder",
+                "1/2 teaspoon red chili powder",
+                "1/4 cup yogurt",
+                "A few strands of saffron soaked in milk",
+                "2 tablespoons ghee or oil",
+                "Whole spices (cinnamon stick, cardamom pods, cloves, bay leaves)",
+                "Salt to taste",
+                "Chopped cilantro and mint leaves for garnish"
+            ],
+            "instructions": [
+                "Wash basmati rice and soak it in water for 30 minutes.",
+                "Heat ghee or oil in a large pot and add whole spices.",
+                "Add sliced onions and sauté until golden brown.",
+                "Add ginger-garlic paste and sauté for a minute.",
+                "Add chopped tomatoes and cook until they turn mushy.",
+                "Add turmeric powder, red chili powder, biryani masala, and salt. Mix well.",
+                "Add mixed vegetables and cook for a few minutes.",
+                "Drain the soaked rice and add it to the pot. Mix gently.",
+                "Add yogurt and saffron-soaked milk. Mix well.",
+                "Add enough water to cook the rice (usually double the quantity of rice).",
+                "Cover the pot and cook on low heat until the rice is fully cooked and fluffy.",
+                "Garnish with chopped cilantro and mint leaves.",
+                "Serve hot with raita or yogurt."
+            ]
+        },
+        {
+            "name": "Aloo Gobi",
+            "country": "India",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups cauliflower florets",
+                "2 medium potatoes, cubed",
+                "1 onion, finely chopped",
+                "2 tomatoes, chopped",
+                "2 teaspoons ginger-garlic paste",
+                "1 teaspoon cumin seeds",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 teaspoon coriander powder",
+                "1/2 teaspoon garam masala",
+                "2 tablespoons oil",
+                "Salt to taste",
+                "Chopped cilantro for garnish"
+            ],
+            "instructions": [
+                "Heat oil in a pan and add cumin seeds.",
+                "Once the cumin seeds crackle, add chopped onions and sauté until golden brown.",
+                "Add ginger-garlic paste and sauté for a minute.",
+                "Add chopped tomatoes and cook until they turn mushy.",
+                "Add turmeric powder, red chili powder, coriander powder, garam masala, and salt. Mix well.",
+                "Add cauliflower florets and cubed potatoes. Mix gently to coat them with the masala.",
+                "Cover the pan and cook on low heat until the vegetables are tender, stirring occasionally.",
+                "Garnish with chopped cilantro.",
+                "Serve hot with rice or roti."
+            ]
+        },
+        {
+            "name": "Paneer Tikka",
+            "country": "India",
+            "vegetarian": true,
+            "ingredients": [
+                "200 grams paneer (Indian cottagecheese), cubed",
+                "1 bell pepper, cubed",
+                "1 onion, cubed",
+                "2 tablespoons yogurt",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon red chili powder",
+                "1 teaspoon garam masala",
+                "1 tablespoon lemon juice",
+                "2 tablespoons oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "In a bowl, mix yogurt, ginger-garlic paste, turmeric powder, red chili powder, garam masala, lemon juice, and salt.",
+                "Add paneer cubes, bell pepper cubes, and onion cubes to the marinade. Mix gently to coat them well.",
+                "Cover the bowl and let the paneer and vegetables marinate for 30 minutes.",
+                "Preheat the grill or oven to medium-high heat.",
+                "Thread the marinated paneer, bell pepper, and onion onto skewers.",
+                "Brush the skewers with oil.",
+                "Grill the paneer tikka skewers for 10-15 minutes, turning them occasionally, until the paneer is slightly charred and the vegetables are cooked.",
+                "Remove from the grill or oven and serve hot."
+            ]
+        },
+        {
+            "name": "Caprese Salad",
+            "country": "Italy",
+            "vegetarian": true,
+            "ingredients": [
+                "2 large tomatoes, sliced",
+                "8 ounces fresh mozzarella cheese, sliced",
+                "Fresh basil leaves",
+                "Extra-virgin olive oil",
+                "Balsamic vinegar",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Arrange tomato slices and mozzarella slices on a platter.",
+                "Tuck basil leaves between the tomato and mozzarella slices.",
+                "Drizzle with olive oil and balsamic vinegar.",
+                "Season with salt and pepper to taste.",
+                "Serve immediately."
+            ]
+        },
+        {
+            "name": "Mushroom Risotto",
+            "country": "Italy",
+            "vegetarian": true,
+            "ingredients": [
+                "1 cup Arborio rice",
+                "4 cups vegetable broth",
+                "1 cup mushrooms, sliced",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1/4 cup grated Parmesan cheese",
+                "2 tablespoons butter",
+                "2 tablespoons olive oil",
+                "1/4 cup white wine (optional)",
+                "Salt and pepper to taste",
+                "Chopped parsley for garnish"
+            ],
+            "instructions": [
+                "In a saucepan, heat vegetable broth and keep it warm.",
+                "In a separate large saucepan, heat olive oil and butter over medium heat.",
+                "Add onions and garlic, and sauté until onions are translucent.",
+                "Add mushrooms and cook until they release their moisture.",
+                "Add Arborio rice and stir to coat with the oil and butter.",
+                "If using, pour in the white wine and cook until it is absorbed.",
+                "Begin adding the warm vegetable broth, one ladleful at a time, stirring constantly and allowing the liquid to be absorbed before adding more.",
+                "Continue adding broth and stirring until the rice is creamy and al dente, about 20-25 minutes.",
+                "Stir in grated Parmesan cheese and season with salt and pepper.",
+                "Garnish with chopped parsley and serve hot."
+            ]
+        },
+        {
+            "name": "Vegetarian Chili",
+            "country": "United States",
+            "vegetarian": true,
+            "ingredients": [
+                "1 tablespoon olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 bell pepper, diced",
+                "1 zucchini, diced",
+                "1 can (15 ounces) kidney beans, drained and rinsed",
+                "1 can (15 ounces) black beans, drained and rinsed",
+                "1 can (15 ounces) diced tomatoes",
+                "1 cup vegetable broth",
+                "2 tablespoons chili powder",
+                "1 teaspoon cumin",
+                "1 teaspoon paprika",
+                "Salt and pepper to taste",
+                "Optional toppings: shredded cheese, chopped cilantro, sour cream"
+            ],
+            "instructions": [
+                "In a large pot, heat olive oil over medium heat.",
+                "Add onions, garlic, bell pepper, and zucchini. Sauté until vegetables are tender.",
+                "Add kidney beans, black beans, diced tomatoes, vegetable broth, chili powder, cumin, and paprika.",
+                "Season with salt and pepper to taste.",
+                "Bring the chili to a simmer and let it cook for 20-30 minutes to allow the flavors to meld together.",
+                "Serve hot with optional toppings like shredded cheese, chopped cilantro, and sour cream."
+            ]
+        },
+        {
+            "name": "Vegetable Lasagna",
+            "country": "Italy",
+            "vegetarian": true,
+            "ingredients": [
+                "9 lasagna noodles",
+                "2 cups marinara sauce",
+                "1 cup ricotta cheese",
+                "1 cup shredded mozzarella cheese",
+                "1 cup grated Parmesan cheese",
+                "2 cups mixed vegetables (such as spinach, zucchini, and bell peppers), chopped",
+                "2 cloves garlic, minced",
+                "2 tablespoons olive oil",
+                "1 teaspoon dried basil",
+                "1 teaspoon dried oregano",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to 375°F (190°C).",
+                "Cook lasagna noodles according to package instructions, then drain and set aside.",
+                "In a skillet, heat olive oil over medium heat.",
+                "Add minced garlic and sauté for a minute.",
+                "Add mixed vegetables and cook until they are tender.",
+                "Season with dried basil, dried oregano, salt, and pepper.",
+                "In a baking dish, spread a thin layer of marinara sauce.",
+                "Place three lasagna noodles on top of the sauce.",
+                "Spread ricotta cheese over the noodles, followed by the cooked vegetables.",
+                "Sprinkle mozzarella and Parmesan cheese over the vegetables.",
+                "Repeat the layers with the remaining ingredients, finishing with a layer of marinara sauce and cheese on top.",
+                "Cover the baking dish with foil and bake for 25 minutes.",
+                "Remove the foil and bake for an additional 10-15 minutes until the cheese is bubbly and golden.",
+                "Let it cool for a few minutes before serving."
+            ]
+        },
+        {
+            "name": "Falafel",
+            "country": "Middle East",
+            "vegetarian": true,
+            "ingredients": [
+                "1 cup dried chickpeas, soaked overnight",
+                "1/2 cup fresh parsley leaves",
+                "1/2 cup fresh cilantro leaves",
+                "1 small onion, chopped",
+                "4 cloves garlic",
+                "2 teaspoons ground cumin",
+                "1 teaspoon ground coriander",
+                "1/2 teaspoon baking soda",
+                "Salt and pepper to taste",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "Drain the soaked chickpeas and pat them dry.",
+                "In a food processor, combine chickpeas, parsley, cilantro, onion, garlic, cumin, coriander, baking soda, salt, and pepper.",
+                "Pulse the mixture until it forms a coarse paste.",
+                "Transfer the mixture to a bowl and refrigerate for 1-2 hours.",
+                "Shape the chilled mixture into small patties.",
+                "Heat oil in a pan over medium heat.",
+                "Fry the falafel patties until they are golden brown and crispy on both sides.",
+                "Remove from the pan and drain on paper towels.",
+                "Serve hot with pita bread and tahini sauce."
+            ]
+        },
+        {
+            "name": "Margherita Pizza",
+            "country": "Italy",
+            "vegetarian": true,
+            "ingredients": [
+                "1 pizza dough",
+                "1/2 cup marinara sauce",
+                "8 ounces fresh mozzarella cheese, sliced",
+                "Fresh basil leaves",
+                "Extra-virgin olive oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to the highest temperature.",
+                "Roll out the pizza dough into a round shape.",
+                "Place the dough on a pizza stone or baking sheet.",
+                "Spread marinara sauce evenly over the dough.",
+                "Arrange mozzarella slices on top of the sauce.",
+                "Tuck basil leaves between the cheese slices.",
+                "Drizzle olive oil over the pizza.",
+                "Season with salt and pepper to taste.",
+                "Bake the pizza in the preheated oven for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                "Remove from the oven and let it cool for a few minutes before slicing and serving."
+            ]
+        },
+        {
+            "name": "Greek Salad",
+            "country": "Greece",
+            "vegetarian": true,
+            "ingredients": [
+                "2 tomatoes, diced",
+                "1 cucumber, diced",
+                "1 red onion, thinly sliced",
+                "1 bell pepper, diced",
+                "1/2 cup Kalamata olives",
+                "1/2 cup crumbled feta cheese",
+                "Fresh oregano leaves",
+                "Extra-virgin olive oil",
+                "Red wine vinegar",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "In a large bowl, combine tomatoes, cucumber, red onion, bell pepper, and Kalamata olives.",
+                "Toss the ingredients to mix well.",
+                "Sprinkle crumbled feta cheese over the salad.",
+                "Drizzle olive oil and red wine vinegar over the salad.",
+                "Season with salt and pepper to taste.",
+                "Garnish with fresh oregano leaves.",
+                "Serve immediately."
+            ]
+        },
+        {
+            "name": "Spinach and Feta Stuffed Mushrooms",
+            "country": "United States",
+            "vegetarian": true,
+            "ingredients": [
+                "12 large mushrooms",
+                "2 cups fresh spinach leaves",
+                "1/2 cup crumbled feta cheese",
+                "2 cloves garlic, minced",
+                "2 tablespoons bread crumbs",
+                "2 tablespoons grated Parmesan cheese",
+                "2 tablespoons olive oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to 375°F (190°C).",
+                "Remove the stems from the mushrooms and set them aside.",
+                "Arrange the mushroom caps on a baking sheet.",
+                "In a skillet, heat olive oil over medium heat.",
+                "Add minced garlic and sauté until fragrant.",
+                "Add spinach leaves and cook until wilted.",
+                "Remove from heat and let it cool slightly.",
+                "Chop the mushroom stems and add them to the skillet.",
+                "Add crumbled feta cheese, bread crumbs, grated Parmesan cheese, salt, and pepper to the skillet. Mix well.",
+                "Spoon the spinach and feta mixture into the mushroom caps, filling them generously.",
+                "Bake in the preheated oven for 20-25 minutes, or until the mushrooms are tender and the filling is golden brown.",
+                "Serve hot as an appetizer or side dish."
+            ]
+        },
+        {
+            "name": "Vegetable Quiche",
+            "country": "France",
+            "vegetarian": true,
+            "ingredients": [
+                "1 pie crust",
+                "1 cup mixed vegetables (such as bell peppers, mushrooms, and spinach), chopped",
+                "1 small onion, chopped",
+                "4 large eggs",
+                "1 cup milk",
+                "1 cup shredded cheese (such as cheddar or Swiss)",
+                "2 tablespoons chopped fresh herbs (such as parsley or basil)",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to 375°F (190°C).",
+                "Line a pie dish with the pie crust and set aside.",
+                "In a skillet, sauté chopped vegetables and onion until tender.",
+                "In a bowl, whisk together eggs, milk, shredded cheese, chopped herbs, salt, and pepper.",
+                "Spread the sautéed vegetables and onion evenly in the pie crust.",
+                "Pour the egg mixture over the vegetables.",
+                "Bake in the preheated oven for 30-35 minutes, or until the quiche is set and golden brown on top.",
+                "Let it cool for a few minutes before slicing and serving."
+            ]
+        },
+        {
+            "name": "Vegetable Stir-Fry",
+            "country": "China",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups mixed vegetables (such as broccoli, bell peppers, carrots, and snow peas), sliced",
+                "1 onion, sliced",
+                "2 cloves garlic, minced",
+                "2 tablespoons soy sauce",
+                "1 tablespoon sesame oil",
+                "1 tablespoon cornstarch",
+                "1 tablespoon water",
+                "1 tablespoon vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "In a small bowl, whisk together soy sauce, sesame oil, cornstarch, water, salt, and pepper to make the sauce.",
+                "In a wok or large skillet, heat vegetable oil over high heat.",
+                "Add minced garlic and sliced onion. Stir-fry for a minute until fragrant.",
+                "Add mixed vegetables to the wok and stir-fry for 3-5 minutes, or until they are crisp-tender.",
+                "Pour the sauce over the vegetables and stir to coat evenly.",
+                "Continue cooking for another 2-3 minutes, or until the sauce thickens and coats the vegetables.",
+                "Remove from heat and serve hot with steamed rice or noodles."
+            ]
+        },
+        {
+            "name": "Cheesy Veggie Quesadilla",
+            "country": "Mexico",
+            "vegetarian": true,
+            "ingredients": [
+                "4 large tortillas",
+                "1 cup mixed vegetables (such as bell peppers, onions, and zucchini), sliced",
+                "1 cup shredded cheese (such as cheddar or Monterey Jack)",
+                "1/4 cup sliced black olives",
+                "1/4 cup chopped fresh cilantro",
+                "1/4 cup salsa",
+                "1/4 cup sour cream",
+                "1 tablespoon vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Heat vegetable oil in a large skillet over medium heat.",
+                "Add mixed vegetables and sauté until they are tender-crisp.",
+                "Season with salt and pepper to taste.",
+                "Remove the vegetables from the skillet and set them aside.",
+                "In the same skillet, place one tortilla.",
+                "Sprinkle half of the shredded cheese over the tortilla.",
+                "Top with half of the sautéed vegetables, sliced black olives, and chopped cilantro.",
+                "Place another tortilla on top and press lightly.",
+                "Cook for 2-3 minutes, or until the cheese starts to melt and the bottom tortilla is golden brown.",
+                "Flip the quesadilla and cook for another 2-3 minutes on the other side, until the cheese is fully melted and both tortillas are golden brown.",
+                "Remove from heat and repeat the process with the remaining tortillas and fillings.",
+                "Cut the quesadillas into wedges and serve hot with salsa and sour cream."
+            ]
+        },
+        {
+            "name": "Creamy Tomato Basil Soup",
+            "country": "United States",
+            "vegetarian": true,
+            "ingredients": [
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "2 cans (14 ounces each) diced tomatoes",
+                "1 can (14 ounces) tomato sauce",
+                "2 cups vegetable broth",
+                "1/2 cup heavy cream",
+                "1/4 cup chopped fresh basil",
+                "1/2 teaspoon dried oregano",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "In a large pot, heat olive oil over medium heat.",
+                "Add chopped onion and minced garlic. Sauté until onions are translucent.",
+                "Add diced tomatoes, tomato sauce, vegetable broth, dried oregano, salt, and pepper.",
+                "Bring the mixture to a boil, then reduce heat and simmer for 15-20 minutes to allow the flavors to meld together.",
+                "Using an immersion blender or regular blender, puree the soup until smooth.",
+                "Return the soup to the pot and stir in heavy cream and chopped fresh basil.",
+                "Simmer for another 5 minutes, or until the soup is heated through.",
+                "Serve hot with crusty bread or grilled cheese sandwiches."
+            ]
+        },
+        {
+            "name": "Vegetable Paella",
+            "country": "Spain",
+            "vegetarian": true,
+            "ingredients": [
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 bell pepper, diced",
+                "1 zucchini, diced",
+                "1 cup diced tomatoes",
+                "1 cup Arborio rice",
+                "2 cups vegetable broth",
+                "1 teaspoon smoked paprika",
+                "1/2 teaspoon saffron threads",
+                "1 cup frozen peas",
+                "Salt and pepper to taste",
+                "Fresh parsley for garnish"
+            ],
+            "instructions": [
+                "In a large paella pan or skillet, heat olive oil over medium heat.",
+                "Add chopped onion and minced garlic. Sauté until onions are translucent.",
+                "Add diced bell pepper and zucchini. Sauté until vegetables are tender.",
+                "Stir in diced tomatoes and cook for another minute.",
+                "Add Arborio rice, vegetable broth, smoked paprika, saffron threads, salt, and pepper.",
+                "Bring the mixture to a boil, then reduce heat to low.",
+                "Cover the pan and let the paella simmer for 20-25 minutes, or until the rice is cooked and the liquid is absorbed.",
+                "Stir in frozen peas and cook for another 2-3 minutes, until the peas are heated through.",
+                "Garnish with fresh parsley before serving."
+            ]
+        },
+        {
+            "name": "Pad Thai",
+            "country": "Thailand",
+            "vegetarian": true,
+            "ingredients": [
+                "8 ounces rice noodles",
+                "2 tablespoons vegetable oil",
+                "1/2 cup tofu, diced",
+                "1/4 cup chopped peanuts",
+                "1/4 cup chopped green onions",
+                "2 cloves garlic, minced",
+                "2 tablespoons soy sauce",
+                "2 tablespoons tamarind paste",
+                "2 tablespoons brown sugar",
+                "1 tablespoon lime juice",
+                "1/2 teaspoon red pepper flakes",
+                "1/4 cup bean sprouts",
+                "Lime wedges for serving"
+            ],
+            "instructions": [
+                "Cook rice noodles according to package instructions, then drain and set aside.",
+                "In a large skillet, heat vegetable oil over medium heat.",
+                "Add diced tofu and cook until it turns golden brown.",
+                "Push the tofu to one side of the skillet and add minced garlic to the other side. Sauté until fragrant.",
+                "In a small bowl, whisk together soy sauce, tamarind paste, brown sugar, lime juice, and red pepper flakes.",
+                "Pour the sauce over the tofu and garlic. Stir to coat the tofu evenly.",
+                "Add cooked rice noodles to the skillet and toss everything together.",
+                "Add chopped peanuts and green onions. Stir-fry for another minute.",
+                "Remove from heat and garnish with bean sprouts and lime wedges.",
+                "Serve hot."
+            ]
+        },
+        {
+            "name": "Vegetable Biryani",
+            "country": "India",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups basmati rice",
+                "1 cup mixed vegetables (carrots, peas, beans, etc.)",
+                "1 onion, thinly sliced",
+                "2 tomatoes, chopped",
+                "1 tablespoon ginger-garlic paste",
+                "1 teaspoon biryani masala",
+                "1/2 teaspoon turmeric powder",
+                "1/2 teaspoon red chili powder",
+                "1/4 cup yogurt",
+                "A few strands of saffron soaked in milk",
+                "2 tablespoons ghee or oil",
+                "Whole spices (cinnamon stick, cardamom pods, cloves, bay leaves)",
+                "Salt to taste",
+                "Chopped cilantro and mint leaves for garnish"
+            ],
+            "instructions": [
+                "Wash basmati rice and soak it in water for 30 minutes.",
+                "Heat ghee or oil in a large pot and add whole spices.",
+                "Add sliced onions and sauté until golden brown.",
+                "Add ginger-garlic paste and sauté for a minute.",
+                "Add chopped tomatoes and cook until they turn mushy.",
+                "Add turmeric powder, red chili powder, biryani masala, and salt. Mix well.",
+                "Add mixed vegetables and cook for a few minutes.",
+                "Drain the soaked rice and add it to the pot. Mix gently.",
+                "Add yogurt and saffron-soaked milk. Mix well.",
+                "Add enough water to cook the rice (usually double the quantity of rice).",
+                "Cover the pot and cook on low heat until the rice is fully cooked and fluffy.",
+                "Garnish with chopped cilantro and mint leaves.",
+                "Serve hot with raita or yogurt."
+            ]
+        },
+        {
+            "name": "Miso Soup",
+            "country": "Japan",
+            "vegetarian": true,
+            "ingredients": [
+                "4 cups vegetable broth",
+                "2 tablespoons miso paste",
+                "1/2 cup tofu, diced",
+                "1/4 cup sliced green onions",
+                "1/4 cup sliced mushrooms",
+                "1 sheet nori (seaweed), torn into small pieces",
+                "1 teaspoon soy sauce (optional)",
+                "1 teaspoon sesame oil (optional)"
+            ],
+            "instructions": [
+                "In a pot, bring vegetable broth to a simmer over medium heat.",
+                "In a small bowl, dissolve miso paste in a few tablespoons of hot broth.",
+                "Add the miso mixture to the pot and stir well.",
+                "Add diced tofu, sliced green onions, sliced mushrooms, and torn nori to the pot.",
+                "Simmer for 5-10 minutes, or until the tofu is heated through and the flavors meld together.",
+                "Taste and adjust the seasoning with soy sauce and sesame oil, if desired.",
+                "Remove from heat and serve hot."
+            ]
+        },
+        {
+            "name": "Vegetable Spring Rolls",
+            "country": "China",
+            "vegetarian": true,
+            "ingredients": [
+                "8 spring roll wrappers",
+                "1 cup shredded cabbage",
+                "1 cup shredded carrots",
+                "1/2 cup bean sprouts",
+                "1/2 cup sliced bell peppers",
+                "1/4 cup chopped green onions",
+                "2 tablespoons soy sauce",
+                "1 tablespoon rice vinegar",
+                "1 tablespoon sesame oil",
+                "1 tablespoon cornstarch mixed with 2 tablespoons water",
+                "Oil for frying"
+            ],
+            "instructions": [
+                "In a bowl, mix shredded cabbage, shredded carrots, bean sprouts, sliced bell peppers, and chopped green onions.",
+                "In a small bowl, whisk together soy sauce, rice vinegar, sesame oil, and cornstarch-water mixture.",
+                "Heat oil in a pan or wok over medium heat.",
+                "Add the vegetable mixture to the pan and stir-fry for a few minutes until the vegetables are tender-crisp.",
+                "Pour the sauce over the vegetables and stir to coat evenly.",
+                "Remove from heat and let the filling cool.",
+                "Place a spring roll wrapper on a clean surface.",
+                "Spoon about 2 tablespoons of the vegetable filling onto the wrapper.",
+                "Fold the sides of the wrapper over the filling and roll tightly.",
+                "Dab the edges of the wrapper with water to seal the spring roll.",
+                "Repeat the process with the remaining wrappers and filling.",
+                "Heat oil in a deep pan or fryer to 350°F (175°C).",
+                "Fry the spring rolls in batches until they are golden brown and crispy.",
+                "Remove from the oil and drain on paper towels.",
+                "Serve hot with dipping sauce of your choice."
+            ]
+        },
+        {
+            "name": "Tofu Stir-Fry",
+            "country": "China",
+            "vegetarian": true,
+            "ingredients": [
+                "1 block of tofu, drained and cubed",
+                "2 cups mixed vegetables (such as broccoli, bell peppers, and carrots), sliced",
+                "2 cloves garlic, minced",
+                "2 tablespoons soy sauce",
+                "1 tablespoon hoisin sauce",
+                "1 tablespoon cornstarch mixed with 2 tablespoons water",
+                "2 tablespoons vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Heat vegetable oil in a large skillet or wok over medium heat.",
+                "Add minced garlic and sauté until fragrant.",
+                "Add cubed tofu to the skilletand stir-fry until it turns golden brown on all sides.",
+                "Add sliced vegetables to the skillet and stir-fry until they are tender-crisp.",
+                "In a small bowl, whisk together soy sauce, hoisin sauce, and cornstarch-water mixture.",
+                "Pour the sauce over the tofu and vegetables. Stir to coat everything evenly.",
+                "Continue cooking for a few minutes until the sauce thickens and coats the tofu and vegetables.",
+                "Season with salt and pepper to taste.",
+                "Remove from heat and serve hot with steamed rice or noodles."
+            ]
+        },
+        {
+            "name": "Kimchi Fried Rice",
+            "country": "Korea",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups cooked rice",
+                "1 cup kimchi, chopped",
+                "1/2 cup firm tofu, diced",
+                "1/4 cup sliced green onions",
+                "2 tablespoons soy sauce",
+                "1 tablespoon sesame oil",
+                "1 tablespoon vegetable oil",
+                "1 teaspoon gochujang (Korean chili paste)",
+                "1 teaspoon sugar",
+                "2 cloves garlic, minced",
+                "1 fried egg (optional)",
+                "Toasted sesame seeds for garnish"
+            ],
+            "instructions": [
+                "Heat vegetable oil in a large skillet or wok over medium heat.",
+                "Add minced garlic and sauté until fragrant.",
+                "Add diced tofu to the skillet and stir-fry until it turns golden brown.",
+                "Add chopped kimchi and sliced green onions to the skillet. Stir-fry for a few minutes until the kimchi is heated through.",
+                "In a small bowl, whisk together soy sauce, sesame oil, gochujang, and sugar.",
+                "Add cooked rice to the skillet and stir to break up any clumps.",
+                "Pour the sauce over the rice and kimchi mixture. Stir-fry for a few more minutes until everything is well combined.",
+                "Remove from heat and garnish with a fried egg and toasted sesame seeds, if desired.",
+                "Serve hot."
+            ]
+        },
+        {
+            "name": "Vegetable Curry",
+            "country": "India",
+            "vegetarian": true,
+            "ingredients": [
+                "2 tablespoons vegetable oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 bell pepper, diced",
+                "2 carrots, diced",
+                "1 zucchini, diced",
+                "1 cup cauliflower florets",
+                "1 cup green peas",
+                "1 can (14 ounces) diced tomatoes",
+                "1 can (14 ounces) coconut milk",
+                "2 tablespoons curry powder",
+                "1 teaspoon turmeric powder",
+                "1 teaspoon cumin powder",
+                "1/2 teaspoon red chili powder",
+                "Salt and pepper to taste",
+                "Chopped cilantro for garnish"
+            ],
+            "instructions": [
+                "In a large pot, heat vegetable oil over medium heat.",
+                "Add chopped onion and minced garlic. Sauté until onions are translucent.",
+                "Add diced bell pepper, carrots, zucchini, cauliflower florets, and green peas to the pot.",
+                "Cook for a few minutes until the vegetables are slightly tender.",
+                "Add diced tomatoes, coconut milk, curry powder, turmeric powder, cumin powder, red chili powder, salt, and pepper.",
+                "Stir everything together and bring the mixture to a boil.",
+                "Reduce heat and simmer for 15-20 minutes, or until the vegetables are cooked and the flavors meld together.",
+                "Taste and adjust the seasoning if needed.",
+                "Garnish with chopped cilantro before serving.",
+                "Serve hot with rice or naan bread."
+            ]
+        },
+        {
+            "name": "Vegetable Tempura",
+            "country": "Japan",
+            "vegetarian": true,
+            "ingredients": [
+                "1 cup all-purpose flour",
+                "1/2 cup cornstarch",
+                "1/2 teaspoon baking powder",
+                "1/2 teaspoon salt",
+                "1 cup ice-cold water",
+                "Assorted vegetables (such as sweet potatoes, zucchini, mushrooms, and bell peppers), sliced",
+                "Oil for frying",
+                "Dipping sauce (such as soy sauce or tempura sauce)"
+            ],
+            "instructions": [
+                "In a large bowl, whisk together all-purpose flour, cornstarch, baking powder, and salt.",
+                "Add ice-cold water to the flour mixture and whisk until smooth.",
+                "Heat oil in a deep pan or fryer to 350°F (175°C).",
+                "Dip sliced vegetables into the batter, coating them evenly.",
+                "Carefully place the battered vegetables in the hot oil and fry until they turn golden brown and crispy.",
+                "Remove from the oil and drain on paper towels.",
+                "Serve hot with dipping sauce of your choice."
+            ]
+        },
+        {
+            "name": "Thai Red Curry",
+            "country": "Thailand",
+            "vegetarian": true,
+            "ingredients": [
+                "1 tablespoon vegetable oil",
+                "2 tablespoons red curry paste",
+                "1 can (14 ounces) coconut milk",
+                "1 cup mixed vegetables (such as bell peppers, bamboo shoots, and baby corn)",
+                "1 cup diced tofu",
+                "1 tablespoon soy sauce",
+                "1 tablespoon brown sugar",
+                "1 tablespoon lime juice",
+                "1/4 cup fresh basil leaves",
+                "Salt to taste",
+                "Cooked rice for serving"
+            ],
+            "instructions": [
+                "In a large skillet or wok, heat vegetable oil over medium heat.",
+                "Add red curry paste to the skillet and sauté for a minute until fragrant.",
+                "Add coconut milk to the skillet and stir to combine with the curry paste.",
+                "Add mixed vegetables and diced tofu to the skillet. Stir-fry for a few minutes until the vegetables are tender.",
+                "In a small bowl, whisk together soy sauce, brown sugar, lime juice, and salt.",
+                "Pour the sauce over the vegetables and tofu. Stir to coat everything evenly.",
+                "Simmer the curry for 5-10 minutes, or until the flavors meld together.",
+                "Remove from heat and stir in fresh basil leaves.",
+                "Serve hot with cooked rice."
+            ]
+        },
+        {
+            "name": "Vegetarian Sushi Rolls",
+            "country": "Japan",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups sushi rice",
+                "4 nori (seaweed) sheets",
+                "Assorted vegetables (such as cucumber, avocado, carrot, and bell pepper), thinly sliced",
+                "Soy sauce for dipping",
+                "Wasabi and pickled ginger for serving (optional)"
+            ],
+            "instructions": [
+                "Cook sushi rice according to package instructions, then let it cool to room temperature.",
+                "Place a sheet of nori on a bamboo sushi mat or a clean surface.",
+                "Spread a thin layer of sushi rice over the nori, leaving a small border at the top.",
+                "Arrange thinly sliced vegetables in a row across the rice.",
+                "Using the sushi mat, tightly roll the nori and rice around the vegetables.",
+                "Repeat the process with the remaining nori sheets and ingredients.",
+                "Using a sharp knife,slice each sushi roll into bite-sized pieces.",
+                "Serve the vegetarian sushi rolls with soy sauce for dipping.",
+                "You can also serve with wasabi and pickled ginger, if desired."
+            ]
+        },
+        {
+            "name": "Vegetable Pho",
+            "country": "Vietnam",
+            "vegetarian": true,
+            "ingredients": [
+                "8 cups vegetable broth",
+                "4 ounces rice noodles",
+                "1 cup mixed vegetables (such as bok choy, bean sprouts, and mushrooms)",
+                "1/2 cup sliced tofu",
+                "2 cloves garlic, minced",
+                "1 tablespoon soy sauce",
+                "1 tablespoon hoisin sauce",
+                "1 tablespoon lime juice",
+                "1/2 teaspoon sriracha or hot sauce (optional)",
+                "Fresh cilantro and sliced green onions for garnish",
+                "Lime wedges for serving"
+            ],
+            "instructions": [
+                "In a large pot, bring vegetable broth to a simmer over medium heat.",
+                "Cook rice noodles according to package instructions, then drain and set aside.",
+                "In a separate pan, heat a small amount of oil and sauté minced garlic until fragrant.",
+                "Add mixed vegetables and sliced tofu to the pan. Stir-fry until the vegetables are tender.",
+                "In a small bowl, whisk together soy sauce, hoisin sauce, lime juice, and sriracha, if using.",
+                "Pour the sauce into the pot of simmering broth and stir well.",
+                "Add cooked rice noodles and stir to combine.",
+                "Divide the pho into bowls and garnish with fresh cilantro and sliced green onions.",
+                "Serve hot with lime wedges on the side."
+            ]
+        },
+        {
+            "name": "Vegetarian Bibimbap",
+            "country": "Korea",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups cooked rice",
+                "1 cup mixed vegetables (such as spinach, carrots, bean sprouts, and mushrooms)",
+                "1/2 cup tofu, diced",
+                "2 tablespoons soy sauce",
+                "1 tablespoon sesame oil",
+                "1 tablespoon gochujang (Korean chili paste)",
+                "1 tablespoon vegetable oil",
+                "1 clove garlic, minced",
+                "Salt and pepper to taste",
+                "Fried egg (optional)",
+                "Toasted sesame seeds for garnish"
+            ],
+            "instructions": [
+                "In a bowl, mix diced tofu with soy sauce, sesame oil, minced garlic, salt, and pepper.",
+                "Heat vegetable oil in a pan over medium heat.",
+                "Add the marinated tofu to the pan and cook until it turns golden brown on all sides.",
+                "Remove the tofu from the pan and set it aside.",
+                "In the same pan, sauté mixed vegetables until they are tender.",
+                "In a bowl, combine cooked rice with gochujang and sesame oil. Mix well.",
+                "Divide the rice among serving bowls.",
+                "Arrange sautéed vegetables and tofu on top of the rice.",
+                "Garnish with a fried egg and toasted sesame seeds, if desired.",
+                "Serve hot and mix everything together before eating."
+            ]
+        },
+        {
+            "name": "Vegetable Dim Sum",
+            "country": "China",
+            "vegetarian": true,
+            "ingredients": [
+                "1 package dumpling wrappers",
+                "1 cup mixed vegetables (such as cabbage, carrots, and mushrooms), finely chopped",
+                "1/2 cup firm tofu, crumbled",
+                "2 tablespoons soy sauce",
+                "1 tablespoon sesame oil",
+                "1 tablespoon cornstarch",
+                "1 tablespoon minced ginger",
+                "2 cloves garlic, minced",
+                "1/4 cup chopped green onions",
+                "Oil for steaming",
+                "Soy sauce or dipping sauce for serving"
+            ],
+            "instructions": [
+                "In a bowl, mix chopped vegetables, crumbled tofu, soy sauce, sesame oil, cornstarch, minced ginger, minced garlic, and chopped green onions.",
+                "Place a dumpling wrapper on a clean surface and spoon about 1 tablespoon of the vegetable mixture onto the center of the wrapper.",
+                "Dip your finger in water and wet the edges of the wrapper.",
+                "Fold the wrapper in half and press the edges to seal. You can also fold the edges decoratively.",
+                "Repeat the process with the remaining dumpling wrappers and filling.",
+                "Prepare a steamer and brush the steaming tray with oil to prevent sticking.",
+                "Arrange the dumplings on the steaming tray, leaving some space between them.",
+                "Steam the dumplings for 12-15 minutes, or until the wrappers are translucent and the filling is cooked.",
+                "Remove from the steamer and serve hot with soy sauce or dipping sauce of your choice."
+            ]
+        },
+        {
+            "name": "Vegetarian Phad Thai",
+            "country": "Thailand",
+            "vegetarian": true,
+            "ingredients": [
+                "8 ounces rice noodles",
+                "2 tablespoons vegetable oil",
+                "1/2 cup tofu, diced",
+                "1/4 cup chopped peanuts",
+                "1/4 cup chopped green onions",
+                "2 cloves garlic, minced",
+                "2 tablespoons soy sauce",
+                "2 tablespoons tamarind paste",
+                "2 tablespoons brown sugar",
+                "1 tablespoon lime juice",
+                "1/2 teaspoon red pepper flakes",
+                "1/4 cup bean sprouts",
+                "Lime wedges for serving"
+            ],
+            "instructions": [
+                "Cook rice noodles according to package instructions, then drain and set aside.",
+                "In a large skillet, heat vegetable oil over medium heat.",
+                "Add diced tofu and cook until it turns golden brown.",
+                "Push the tofu to one side of the skillet and add minced garlic to the other side. Sauté until fragrant.",
+                "In a small bowl, whisk together soy sauce, tamarind paste, brown sugar, lime juice, and red pepper flakes.",
+                "Pour the sauce over the tofu and garlic. Stir to coat the tofu evenly.",
+                "Add cooked rice noodles to the skillet and toss everything together.",
+                "Add chopped peanuts and green onions. Stir-fry for another minute.",
+                "Remove from heat and garnish with bean sprouts and lime wedges.",
+                "Serve hot."
+            ]
+        },
+        {
+            "name": "Vegetarian Laksa",
+            "country": "Malaysia",
+            "vegetarian": true,
+            "ingredients": [
+                "2 cups coconut milk",
+                "4 cups vegetable broth",
+                "2 tablespoons laksa paste",
+                "1 cup mixed vegetables (such as tofu, bean sprouts, and sliced mushrooms)",
+                "1/2 cup cooked rice noodles",
+                "1 tablespoon soy sauce",
+                "1 tablespoon lime juice",
+                "1 teaspoon brown sugar",
+                "Salt to taste",
+                "Fresh cilantro and sliced red chili for garnish"
+            ],
+            "instructions": [
+                "In a pot, combine coconut milk, vegetable broth, and laksa paste. Bring the mixture to a boil.",
+                "Add mixed vegetables to the pot and simmer until they are tender.",
+                "In a small bowl, whisk together soy sauce, lime juice, brown sugar, and salt.",
+                "Add the soy sauce mixture to the pot and stir to combine.",
+                "Divide the cooked rice noodles among serving bowls.",
+                "Pour the laksa soup over the noodles and top with fresh cilantro and sliced red chili.",
+                "Serve hot."
+            ]
+        }
+    ]
+}
