@@ -234,17 +234,16 @@ footer figure img
 }
 
 ::-webkit-scrollbar-track {
-    border: 1px solid #0000;
-    background-color: #ffff;
+    background: linear-gradient(180deg, var(--theme-color) 0%, #8d5bf1 100%);
 }
 
 ::-webkit-scrollbar {
     width: 8px;
-    background-color: #dfe6e9;
+    background-color: var(--theme-color);
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: dimgray;
+    background-color: #c67700;
     border-radius: 10px;
 }
 
