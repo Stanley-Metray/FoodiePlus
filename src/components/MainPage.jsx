@@ -18,11 +18,14 @@ const MainPage = (props) => {
         <div id="all-foods">
         {
             arr.map((data, index) => {
+                let result;
                 if (index !== 0)
                     if (parseInt(index % 2) === 0) 
-                        return <MainPageFoodItems foodData={data} flexRowClass="flex-row-reverse" key={index} />
+                        result = <MainPageFoodItems foodData={data} flexRowClass="flex-row-reverse" key={index} />
                     else
-                        return <MainPageFoodItems foodData={data} flexRowClass="" key={index} />
+                        result = <MainPageFoodItems foodData={data} flexRowClass="" key={index} />
+                
+                return result;
             })
         }
         </div>

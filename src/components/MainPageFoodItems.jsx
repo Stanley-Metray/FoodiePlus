@@ -23,8 +23,11 @@ const MainPageFoodItems = (props) => {
                     <div className="row row-cols-1 row-cols-2 g-4">
                         {
                             props.foodData.map((data, index) => {
+                                    let result;
                                 if (index > 0)
-                                    return <DefaultSizeFoodItem img={img} key={index} foodData={data} />
+                                    result = <DefaultSizeFoodItem img={img} key={index} foodData={data} />
+                                    
+                                return result;
                             })
                         }
                     </div>
