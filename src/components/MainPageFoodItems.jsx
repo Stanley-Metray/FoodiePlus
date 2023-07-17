@@ -15,10 +15,10 @@ const MainPageFoodItems = (props) => {
                     <div className="card">
                         <img src={img} className="card-img-top custome-card-image" alt="..." />
                         <div className="card-body d-flex flex-row justify-content-between">
-                            <h5 className="card-title h3">{props.foodData[0].name}</h5>
+                            <h5 className="card-title custome-card-title h3">{props.foodData[0].name}</h5>
                             <Link data-bs-name={props.foodData} onClick={() => {
                                 Cookies.set("foodData", JSON.stringify(props.foodData[0]));
-                            }} style={{ fontSize: "larger" }} className="btn btn-primary rounded-pill pe-4 ps-4" to="/recipe" type="button">Recipe</Link>
+                            }} style={{ fontSize: "larger" }} className="btn-res btn btn-primary rounded-pill pe-md-4 ps-md-4" to="/recipe" type="button">Recipe</Link>
                         </div>
                         <div className="card-footer text-success">{props.foodData[0].country}</div>
                     </div>

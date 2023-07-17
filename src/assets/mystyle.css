@@ -295,4 +295,15 @@ footer figure img {
         height: 300px !important;
     }
 
+    .custome-card-title
+    {
+        font-size: 18px !important;
+    }
+
+    .btn-res
+    {
+        padding: 5px 15px !important;
+        font-size: medium !important;
+    }
+
 }
