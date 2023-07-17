@@ -27,7 +27,7 @@ const Menu = () => {
                     </li>
                 </ul>
                 <form role="search" id="searchForm" onClick={()=>{
-                  alert("Opps! sorry we are working in this feature");  
+                  alert("Opps! sorry we are working on this feature");  
                 }}>
                     <i className="bi bi-search"></i>
                     <input placeholder="Search" aria-label="Search" />
