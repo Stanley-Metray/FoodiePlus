@@ -21,8 +21,7 @@ body {
     overflow-x: hidden;
 }
 
-header
-{   
+header {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -34,22 +33,19 @@ header
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 
-header > p
-{
+header>p {
     height: fit-content;
     color: var(--theme-color-2);
     /* background: rgba(0, 0, 0, 0.3) !important; */
 }
 
-header > p:first-child
-{
+header>p:first-child {
     font-family: 'Pacifico', cursive;
     font-size: 32px !important;
     color: var(--theme-color);
 }
 
-header > p
-{
+header>p {
     color: #c67700;
 }
 
@@ -146,32 +142,37 @@ footer {
 
 .thirteen h1 {
     color: #13191f;
-    position:relative;
-    font-size:30px;
-    font-weight:700;
-    letter-spacing:0px;
-    width:96%;
-    text-align:center;
-    margin:auto;
-    white-space:nowrap;
-    border:2px solid rgb(31, 30, 30);
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    width: 96%;
+    text-align: center;
+    margin: auto;
+    white-space: nowrap;
+    border: 2px solid rgb(31, 30, 30);
     border-radius: 7px;
-    padding:15px 0px;
-  }
-  .thirteen h1:before, .thirteen h1:after {
-      background-color: var(--theme-color);
-      position:absolute; 
-      content: '';
-      height: 7px;
-      width: 7px; border-radius:50%;
-      bottom: 30px;
-  }
-  .thirteen h1:before {
-     left:-20px;
-  }
-  .thirteen h1:after {
-     right:-20px;
-  }
+    padding: 15px 0px;
+}
+
+.thirteen h1:before,
+.thirteen h1:after {
+    background-color: var(--theme-color);
+    position: absolute;
+    content: '';
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+    bottom: 30px;
+}
+
+.thirteen h1:before {
+    left: -20px;
+}
+
+.thirteen h1:after {
+    right: -20px;
+}
 
 
 .card {
@@ -182,16 +183,14 @@ footer {
     background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
 }
 
-.card-img-top
-{
+.card-img-top {
     width: 100%;
     height: 200px;
     object-fit: cover;
     object-position: center;
 }
 
-.custome-card-image
-{
+.custome-card-image {
     height: 400px !important;
 }
 
@@ -227,8 +226,7 @@ footer div h1 {
     font-family: 'Pacifico', cursive;
 }
 
-footer figure img
-{
+footer figure img {
     height: 50px;
     width: auto;
 }
@@ -267,10 +265,10 @@ footer figure img
     }
 }
 
+
 /* Responsive code for Header  */
 
-@media only screen and (max-width: 992px)
-{
+@media only screen and (max-width: 992px) {
     header {
         justify-content: center;
     }
@@ -279,11 +277,22 @@ footer figure img
 @media only screen and (max-width: 700px) {
     .thirteen h1 {
         width: 85%;
-      }
+    }
 
-      .custome-card-image
-      {
-          height: 300px !important;
-      }
-    
+    .custome-card-image {
+        height: 300px !important;
+    }
+
+}
+
+@media only screen and (max-width: 412px) {
+
+    .card-img-top {
+        height: 300px;
+    }
+
+    .custome-card-image {
+        height: 350px !important;
+    }
+
 }

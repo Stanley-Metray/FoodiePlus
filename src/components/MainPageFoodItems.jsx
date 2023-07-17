@@ -24,7 +24,7 @@ const MainPageFoodItems = (props) => {
                     </div>
                 </div>
                 <div className="col">
-                    <div className="row row-cols-1 row-cols-2 g-4">
+                    <div className="row row-cols-1 row-cols-md-2 row-cols-1 g-4">
                         {
                             props.foodData.map((data, index) => {
                                 let result;
